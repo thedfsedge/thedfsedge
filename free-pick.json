@@ -1,36 +1,18 @@
 {
-  "date_label": "Wednesday, October 7",
-  "board_title": "MLB Playoff Board + Midweek CFB",
+  "date_label": "Thursday, October 8",
+  "board_title": "Thursday Night Board",
   "featured": {
     "sport": "MLB",
     "matchup": "CLE @ CHW",
     "pick": "Under 7.5",
-    "why": "our ~55% vs 50.5% implied \u2014 series averaging 5 runs/game, Cleveland .115 BA, CLE bullpen game"
+    "why": "our ~57% vs 54.5% implied \u2014 Messick vs Smith + rested CHW pen, Guardians 25th in wRC+ vs LHP, elimination leverage"
   },
   "also_on_board": [
     {
-      "sport": "MLB",
-      "matchup": "LAD @ ATL",
-      "pick": "Under 7.5",
-      "why": "our ~57% vs 54.1% implied \u2014 Glasnow/Mahle pitchers' duel setup, 2 of 3 series games under 7.5"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "TB @ NYY",
-      "pick": "TB +135",
-      "why": "our ~45% vs 42.6% implied \u2014 Rays allowed 2 runs all series, Judge off ALDS roster, NYY defense shaky, line softening"
-    },
-    {
-      "sport": "MLB",
-      "matchup": "LAD @ ATL",
-      "pick": "ATL +125",
-      "why": "our ~48% vs 44.4% implied \u2014 Mahle's post-deadline form (1.99 ERA w/ ATL) mispriced; not chasing LAD steam (-115 to -150)"
-    },
-    {
       "sport": "CFB",
-      "matchup": "NMST @ FIU",
-      "pick": "Under 47.5",
-      "why": "our ~57% vs 53.3% implied \u2014 FIU top-5 defense (14.5 ppg allowed), NMST short week, FIU QB turnover-prone"
+      "matchup": "USF @ UTSA",
+      "pick": "Under 49.5",
+      "why": "our ~55% vs 52.4% implied \u2014 sharp steam 50.5 to 49.5 against the public, USF under in 6 of last 8, held under 20 three times"
     }
   ],
   "links": {
@@ -38,5 +20,5 @@
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-10-07"
+  "generated_at": "2026-10-08"
 }
