@@ -1,0 +1,328 @@
+{
+  "summary": {
+    "wins": 21,
+    "losses": 13,
+    "pushes": 1,
+    "record": "21-13-1",
+    "units": 6.11,
+    "plays_graded": 35
+  },
+  "plays": [
+    {
+      "date": "2026-10-06",
+      "sport": "MLB",
+      "game": "MIL @ SD",
+      "pick": "MIL +115",
+      "result": "L",
+      "score": "SD 4 - MIL 3",
+      "units": -1.0
+    },
+    {
+      "date": "2026-10-06",
+      "sport": "MLB",
+      "game": "LAD @ ATL",
+      "pick": "Under 6.5",
+      "result": "W",
+      "score": "LAD 3 - ATL 1 (4 runs)",
+      "units": 0.91
+    },
+    {
+      "date": "2026-10-06",
+      "sport": "CFB",
+      "game": "USM @ TROY",
+      "pick": "Under 49.5",
+      "result": "L",
+      "score": "TROY 55 - USM 34 (89 total)",
+      "units": -1.0
+    },
+    {
+      "date": "2026-10-05",
+      "sport": "NFL",
+      "game": "ATL @ NO",
+      "pick": "ATL +1.5",
+      "result": "W",
+      "score": "ATL 45 - NO 24",
+      "units": 0.91
+    },
+    {
+      "date": "2026-10-05",
+      "sport": "MLB",
+      "game": "CWS @ CLE",
+      "pick": "Under 6.5",
+      "result": "L",
+      "score": "CWS 4 - CLE 3 (7 runs)",
+      "units": -1.0
+    },
+    {
+      "date": "2026-10-05",
+      "sport": "MLB",
+      "game": "CWS @ CLE",
+      "pick": "CWS +1.5",
+      "result": "W",
+      "score": "CWS 4 - CLE 3",
+      "units": 0.91
+    },
+    {
+      "date": "2026-10-04",
+      "sport": "MLB",
+      "game": "ATL @ LAD",
+      "pick": "LAD -156",
+      "result": "L",
+      "score": "ATL 3 - LAD 2",
+      "units": -1.0
+    },
+    {
+      "date": "2026-10-04",
+      "sport": "MLB",
+      "game": "SD @ MIL",
+      "pick": "MIL -134",
+      "result": "W",
+      "score": "MIL 4 - SD 3",
+      "units": 0.91
+    },
+    {
+      "date": "2026-10-04",
+      "sport": "NFL",
+      "game": "JAX @ CIN",
+      "pick": "JAX +2.5",
+      "result": "W",
+      "score": "JAX 22 - CIN 17",
+      "units": 0.91
+    },
+    {
+      "date": "2026-10-03",
+      "sport": "MLB",
+      "game": "NYY @ TB",
+      "pick": "TB -134",
+      "result": "W",
+      "score": "TB 1 - NYY 0",
+      "units": 0.91
+    },
+    {
+      "date": "2026-10-03",
+      "sport": "CFB",
+      "game": "MICH @ MINN",
+      "pick": "Under 43.5",
+      "result": "W",
+      "score": "MINN 20 - MICH 14 (34 total)",
+      "units": 0.91
+    },
+    {
+      "date": "2026-10-03",
+      "sport": "CFB",
+      "game": "ARK @ TAMU",
+      "pick": "Under 51.5",
+      "result": "W",
+      "score": "TAMU 34 - ARK 7 (41 total)",
+      "units": 0.91
+    },
+    {
+      "date": "2026-10-03",
+      "sport": "MLB",
+      "game": "CWS @ CLE",
+      "pick": "CLE -154",
+      "result": "L",
+      "score": "CWS 3 - CLE 0",
+      "units": -1.0
+    },
+    {
+      "date": "2026-10-02",
+      "sport": "CFB",
+      "game": "Penn State @ Northwestern",
+      "pick": "Northwestern +2.5",
+      "result": "W",
+      "score": "NW 34 - PSU 13",
+      "units": 0.91
+    },
+    {
+      "date": "2026-10-02",
+      "sport": "CFB",
+      "game": "Pitt @ Virginia Tech",
+      "pick": "Pitt +2.5",
+      "result": "W",
+      "score": "PITT 35 - VT 33",
+      "units": 0.91
+    },
+    {
+      "date": "2026-10-02",
+      "sport": "CFB",
+      "game": "Penn State @ Northwestern",
+      "pick": "Under 45.5",
+      "result": "L",
+      "score": "NW 34 - PSU 13 (47 total)",
+      "units": -1.0
+    },
+    {
+      "date": "2026-10-01",
+      "sport": "NFL",
+      "game": "PIT @ CLE",
+      "pick": "CLE +2.5",
+      "result": "W",
+      "score": "CLE 27 - PIT 24",
+      "units": 0.91
+    },
+    {
+      "date": "2026-10-01",
+      "sport": "NFL",
+      "game": "PIT @ CLE",
+      "pick": "Under 38.5",
+      "result": "L",
+      "score": "CLE 27 - PIT 24 (51 total)",
+      "units": -1.0
+    },
+    {
+      "date": "2026-10-01",
+      "sport": "CFB",
+      "game": "UNT @ TLSA",
+      "pick": "UNT -1",
+      "result": "P",
+      "score": "UNT 45 - TLSA 44 (OT)",
+      "units": 0.0
+    },
+    {
+      "date": "2026-09-30",
+      "sport": "MLB",
+      "game": "BOS @ NYY",
+      "pick": "Under 7",
+      "result": "L",
+      "score": "NYY 9 - BOS 2",
+      "units": -1.0
+    },
+    {
+      "date": "2026-09-30",
+      "sport": "MLB",
+      "game": "PHI @ ATL",
+      "pick": "ATL +100",
+      "result": "L",
+      "score": "PHI 4 - ATL 3 (10)",
+      "units": -1.0
+    },
+    {
+      "date": "2026-09-30",
+      "sport": "MLB",
+      "game": "CWS @ HOU",
+      "pick": "CWS +124",
+      "result": "W",
+      "score": "CWS 7 - HOU 3",
+      "units": 0.91
+    },
+    {
+      "date": "2026-09-30",
+      "sport": "MLB",
+      "game": "CHC @ SD",
+      "pick": "SD -134",
+      "result": "W",
+      "score": "SD 4 - CHC 1",
+      "units": 0.91
+    },
+    {
+      "date": "2026-09-29",
+      "sport": "MLB",
+      "game": "PHI @ ATL",
+      "pick": "ATL -1.5",
+      "result": "W",
+      "score": "ATL 5 - PHI 3",
+      "units": 0.91
+    },
+    {
+      "date": "2026-09-29",
+      "sport": "MLB",
+      "game": "CWS @ HOU",
+      "pick": "CWS +106",
+      "result": "W",
+      "score": "CWS 6 - HOU 3",
+      "units": 0.91
+    },
+    {
+      "date": "2026-09-29",
+      "sport": "MLB",
+      "game": "BOS @ NYY",
+      "pick": "Under 6",
+      "result": "L",
+      "score": "NYY 9 - BOS 0",
+      "units": -1.0
+    },
+    {
+      "date": "2026-09-29",
+      "sport": "MLB",
+      "game": "CHC @ SD",
+      "pick": "Under 7",
+      "result": "L",
+      "score": "SD 8 - CHC 0",
+      "units": -1.0
+    },
+    {
+      "date": "2026-09-28",
+      "sport": "NFL",
+      "game": "PHI @ CHI",
+      "pick": "Under 41.5",
+      "result": "W",
+      "score": "CHI 27 - PHI 7",
+      "units": 0.91
+    },
+    {
+      "date": "2026-09-28",
+      "sport": "NFL",
+      "game": "PHI @ CHI",
+      "pick": "PHI -4.5",
+      "result": "L",
+      "score": "CHI 27 - PHI 7",
+      "units": -1.0
+    },
+    {
+      "date": "2026-09-28",
+      "sport": "NFL",
+      "game": "PHI @ CHI",
+      "pick": "DeVonta Smith over 5.5 receptions",
+      "result": "W",
+      "score": "6 rec / 65 yds",
+      "units": 0.91
+    },
+    {
+      "date": "2026-09-27",
+      "sport": "NFL",
+      "game": "TEN @ NYG",
+      "pick": "Under 37.5",
+      "result": "W",
+      "score": "NYG 12 - TEN 7",
+      "units": 0.91
+    },
+    {
+      "date": "2026-09-27",
+      "sport": "NFL",
+      "game": "SEA @ WAS",
+      "pick": "SEA -7.5",
+      "result": "L",
+      "score": "WAS 33 - SEA 31",
+      "units": -1.0
+    },
+    {
+      "date": "2026-09-27",
+      "sport": "NFL",
+      "game": "HOU @ IND",
+      "pick": "IND +1.5",
+      "result": "W",
+      "score": "IND 19 - HOU 17",
+      "units": 0.91
+    },
+    {
+      "date": "2026-09-27",
+      "sport": "NFL",
+      "game": "PHI @ CHI",
+      "pick": "Under 41.5",
+      "result": "W",
+      "score": "CHI 27 - PHI 7",
+      "units": 0.91
+    },
+    {
+      "date": "2026-09-27",
+      "sport": "NFL",
+      "game": "ARI @ SF",
+      "pick": "ARI +7.5",
+      "result": "W",
+      "score": "SF 36 - ARI 30",
+      "units": 0.91
+    }
+  ],
+  "generated_at": "2026-10-07"
+}
