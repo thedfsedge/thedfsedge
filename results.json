@@ -1,13 +1,77 @@
 {
   "summary": {
-    "wins": 21,
-    "losses": 13,
+    "wins": 24,
+    "losses": 15,
     "pushes": 1,
-    "record": "21-13-1",
-    "units": 6.11,
-    "plays_graded": 35
+    "record": "24-15-1",
+    "units": 6.84,
+    "plays_graded": 40,
+    "free": {
+      "wins": 24,
+      "losses": 15,
+      "pushes": 1,
+      "record": "24-15-1",
+      "units": 6.84
+    },
+    "premium": {
+      "wins": 0,
+      "losses": 0,
+      "pushes": 0,
+      "record": "0-0-0",
+      "units": 0
+    }
   },
   "plays": [
+    {
+      "date": "2026-10-07",
+      "sport": "MLB",
+      "game": "CLE @ CHW",
+      "pick": "Under 7.5",
+      "result": "L",
+      "score": "CLE 9 - CHW 3 (12 total)",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-07",
+      "sport": "MLB",
+      "game": "LAD @ ATL",
+      "pick": "Under 7.5",
+      "result": "W",
+      "score": "LAD 4 - ATL 1 (5 total)",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-07",
+      "sport": "MLB",
+      "game": "TB @ NYY",
+      "pick": "TB +135",
+      "result": "W",
+      "score": "TB 4 - NYY 3",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-07",
+      "sport": "MLB",
+      "game": "LAD @ ATL",
+      "pick": "ATL +125",
+      "result": "L",
+      "score": "LAD 4 - ATL 1",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-07",
+      "sport": "CFB",
+      "game": "NMST @ FIU",
+      "pick": "Under 47.5",
+      "result": "W",
+      "score": "FIU 22 - NMST 3 (25 total)",
+      "units": 0.91,
+      "tier": "free"
+    },
     {
       "date": "2026-10-06",
       "sport": "MLB",
@@ -15,7 +79,8 @@
       "pick": "MIL +115",
       "result": "L",
       "score": "SD 4 - MIL 3",
-      "units": -1.0
+      "units": -1.0,
+      "tier": "free"
     },
     {
       "date": "2026-10-06",
@@ -24,7 +89,8 @@
       "pick": "Under 6.5",
       "result": "W",
       "score": "LAD 3 - ATL 1 (4 runs)",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-10-06",
@@ -33,7 +99,8 @@
       "pick": "Under 49.5",
       "result": "L",
       "score": "TROY 55 - USM 34 (89 total)",
-      "units": -1.0
+      "units": -1.0,
+      "tier": "free"
     },
     {
       "date": "2026-10-05",
@@ -42,7 +109,8 @@
       "pick": "ATL +1.5",
       "result": "W",
       "score": "ATL 45 - NO 24",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-10-05",
@@ -51,7 +119,8 @@
       "pick": "Under 6.5",
       "result": "L",
       "score": "CWS 4 - CLE 3 (7 runs)",
-      "units": -1.0
+      "units": -1.0,
+      "tier": "free"
     },
     {
       "date": "2026-10-05",
@@ -60,7 +129,8 @@
       "pick": "CWS +1.5",
       "result": "W",
       "score": "CWS 4 - CLE 3",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-10-04",
@@ -69,7 +139,8 @@
       "pick": "LAD -156",
       "result": "L",
       "score": "ATL 3 - LAD 2",
-      "units": -1.0
+      "units": -1.0,
+      "tier": "free"
     },
     {
       "date": "2026-10-04",
@@ -78,7 +149,8 @@
       "pick": "MIL -134",
       "result": "W",
       "score": "MIL 4 - SD 3",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-10-04",
@@ -87,7 +159,8 @@
       "pick": "JAX +2.5",
       "result": "W",
       "score": "JAX 22 - CIN 17",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-10-03",
@@ -96,7 +169,8 @@
       "pick": "TB -134",
       "result": "W",
       "score": "TB 1 - NYY 0",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-10-03",
@@ -105,7 +179,8 @@
       "pick": "Under 43.5",
       "result": "W",
       "score": "MINN 20 - MICH 14 (34 total)",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-10-03",
@@ -114,7 +189,8 @@
       "pick": "Under 51.5",
       "result": "W",
       "score": "TAMU 34 - ARK 7 (41 total)",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-10-03",
@@ -123,7 +199,8 @@
       "pick": "CLE -154",
       "result": "L",
       "score": "CWS 3 - CLE 0",
-      "units": -1.0
+      "units": -1.0,
+      "tier": "free"
     },
     {
       "date": "2026-10-02",
@@ -132,7 +209,8 @@
       "pick": "Northwestern +2.5",
       "result": "W",
       "score": "NW 34 - PSU 13",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-10-02",
@@ -141,7 +219,8 @@
       "pick": "Pitt +2.5",
       "result": "W",
       "score": "PITT 35 - VT 33",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-10-02",
@@ -150,7 +229,8 @@
       "pick": "Under 45.5",
       "result": "L",
       "score": "NW 34 - PSU 13 (47 total)",
-      "units": -1.0
+      "units": -1.0,
+      "tier": "free"
     },
     {
       "date": "2026-10-01",
@@ -159,7 +239,8 @@
       "pick": "CLE +2.5",
       "result": "W",
       "score": "CLE 27 - PIT 24",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-10-01",
@@ -168,7 +249,8 @@
       "pick": "Under 38.5",
       "result": "L",
       "score": "CLE 27 - PIT 24 (51 total)",
-      "units": -1.0
+      "units": -1.0,
+      "tier": "free"
     },
     {
       "date": "2026-10-01",
@@ -177,7 +259,8 @@
       "pick": "UNT -1",
       "result": "P",
       "score": "UNT 45 - TLSA 44 (OT)",
-      "units": 0.0
+      "units": 0.0,
+      "tier": "free"
     },
     {
       "date": "2026-09-30",
@@ -186,7 +269,8 @@
       "pick": "Under 7",
       "result": "L",
       "score": "NYY 9 - BOS 2",
-      "units": -1.0
+      "units": -1.0,
+      "tier": "free"
     },
     {
       "date": "2026-09-30",
@@ -195,7 +279,8 @@
       "pick": "ATL +100",
       "result": "L",
       "score": "PHI 4 - ATL 3 (10)",
-      "units": -1.0
+      "units": -1.0,
+      "tier": "free"
     },
     {
       "date": "2026-09-30",
@@ -204,7 +289,8 @@
       "pick": "CWS +124",
       "result": "W",
       "score": "CWS 7 - HOU 3",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-09-30",
@@ -213,7 +299,8 @@
       "pick": "SD -134",
       "result": "W",
       "score": "SD 4 - CHC 1",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-09-29",
@@ -222,7 +309,8 @@
       "pick": "ATL -1.5",
       "result": "W",
       "score": "ATL 5 - PHI 3",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-09-29",
@@ -231,7 +319,8 @@
       "pick": "CWS +106",
       "result": "W",
       "score": "CWS 6 - HOU 3",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-09-29",
@@ -240,7 +329,8 @@
       "pick": "Under 6",
       "result": "L",
       "score": "NYY 9 - BOS 0",
-      "units": -1.0
+      "units": -1.0,
+      "tier": "free"
     },
     {
       "date": "2026-09-29",
@@ -249,7 +339,8 @@
       "pick": "Under 7",
       "result": "L",
       "score": "SD 8 - CHC 0",
-      "units": -1.0
+      "units": -1.0,
+      "tier": "free"
     },
     {
       "date": "2026-09-28",
@@ -258,7 +349,8 @@
       "pick": "Under 41.5",
       "result": "W",
       "score": "CHI 27 - PHI 7",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-09-28",
@@ -267,7 +359,8 @@
       "pick": "PHI -4.5",
       "result": "L",
       "score": "CHI 27 - PHI 7",
-      "units": -1.0
+      "units": -1.0,
+      "tier": "free"
     },
     {
       "date": "2026-09-28",
@@ -276,7 +369,8 @@
       "pick": "DeVonta Smith over 5.5 receptions",
       "result": "W",
       "score": "6 rec / 65 yds",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-09-27",
@@ -285,7 +379,8 @@
       "pick": "Under 37.5",
       "result": "W",
       "score": "NYG 12 - TEN 7",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-09-27",
@@ -294,7 +389,8 @@
       "pick": "SEA -7.5",
       "result": "L",
       "score": "WAS 33 - SEA 31",
-      "units": -1.0
+      "units": -1.0,
+      "tier": "free"
     },
     {
       "date": "2026-09-27",
@@ -303,7 +399,8 @@
       "pick": "IND +1.5",
       "result": "W",
       "score": "IND 19 - HOU 17",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-09-27",
@@ -312,7 +409,8 @@
       "pick": "Under 41.5",
       "result": "W",
       "score": "CHI 27 - PHI 7",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     },
     {
       "date": "2026-09-27",
@@ -321,7 +419,8 @@
       "pick": "ARI +7.5",
       "result": "W",
       "score": "SF 36 - ARI 30",
-      "units": 0.91
+      "units": 0.91,
+      "tier": "free"
     }
   ],
   "generated_at": "2026-10-07"
