@@ -1,27 +1,57 @@
 {
   "summary": {
     "wins": 24,
-    "losses": 15,
+    "losses": 18,
     "pushes": 1,
-    "record": "24-15-1",
-    "units": 6.84,
-    "plays_graded": 40,
+    "record": "24-18-1",
+    "units": 3.84,
+    "plays_graded": 43,
     "free": {
       "wins": 24,
-      "losses": 15,
+      "losses": 17,
       "pushes": 1,
-      "record": "24-15-1",
-      "units": 6.84
+      "record": "24-17-1",
+      "units": 4.84
     },
     "premium": {
       "wins": 0,
-      "losses": 0,
+      "losses": 1,
       "pushes": 0,
-      "record": "0-0-0",
-      "units": 0
+      "record": "0-1-0",
+      "units": -1.0
     }
   },
   "plays": [
+    {
+      "date": "2026-10-08",
+      "sport": "MLB",
+      "game": "CLE @ CHW",
+      "pick": "Under 7.5",
+      "result": "L",
+      "score": "CLE 9 - CHW 5 (14 runs)",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-08",
+      "sport": "CFB",
+      "game": "USF @ UTSA",
+      "pick": "Under 49.5",
+      "result": "L",
+      "score": "UTSA 31 - USF 24 (55 total)",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-08",
+      "sport": "NFL",
+      "game": "TB @ DAL",
+      "pick": "DAL -8.5",
+      "result": "L",
+      "score": "TB 24 - DAL 16",
+      "units": -1.0,
+      "tier": "premium"
+    },
     {
       "date": "2026-10-07",
       "sport": "MLB",
@@ -423,5 +453,5 @@
       "tier": "free"
     }
   ],
-  "generated_at": "2026-10-08"
+  "generated_at": "2026-10-09"
 }

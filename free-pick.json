@@ -1,18 +1,18 @@
 {
-  "date_label": "Thursday, October 8",
-  "board_title": "Thursday Night Board",
+  "date_label": "Friday, October 9",
+  "board_title": "Friday Night Board",
   "featured": {
-    "sport": "MLB",
-    "matchup": "CLE @ CHW",
-    "pick": "Under 7.5",
-    "why": "our ~57% vs 54.5% implied \u2014 Messick vs Smith + rested CHW pen, Guardians 25th in wRC+ vs LHP, elimination leverage"
+    "sport": "CFB",
+    "matchup": "FSU @ LOU",
+    "pick": "Over 59.5",
+    "why": "our ~56% vs 52.4% implied \u2014 LOU scores 38.6 a game but allowed 30+ in 4 of 5; FSU QB run threat; dry, calm Louisville night"
   },
   "also_on_board": [
     {
       "sport": "CFB",
-      "matchup": "USF @ UTSA",
-      "pick": "Under 49.5",
-      "why": "our ~55% vs 52.4% implied \u2014 sharp steam 50.5 to 49.5 against the public, USF under in 6 of last 8, held under 20 three times"
+      "matchup": "IOWA @ WASH",
+      "pick": "IOWA +3",
+      "why": "our ~55% vs 52.4% implied \u2014 Iowa allows 12.6 a game; WASH RB room depleted and 0-2 in Big Ten; +3 carries push protection"
     }
   ],
   "links": {
@@ -20,5 +20,5 @@
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-10-08"
+  "generated_at": "2026-10-09"
 }
