@@ -1,27 +1,67 @@
 {
   "summary": {
-    "wins": 24,
-    "losses": 18,
+    "wins": 27,
+    "losses": 19,
     "pushes": 1,
-    "record": "24-18-1",
-    "units": 3.84,
-    "plays_graded": 43,
+    "record": "27-19-1",
+    "units": 5.57,
+    "plays_graded": 47,
     "free": {
-      "wins": 24,
+      "wins": 26,
       "losses": 17,
       "pushes": 1,
-      "record": "24-17-1",
-      "units": 4.84
+      "record": "26-17-1",
+      "units": 6.66
     },
     "premium": {
-      "wins": 0,
-      "losses": 1,
+      "wins": 1,
+      "losses": 2,
       "pushes": 0,
-      "record": "0-1-0",
-      "units": -1.0
+      "record": "1-2-0",
+      "units": -1.09
     }
   },
   "plays": [
+    {
+      "date": "2026-10-09",
+      "sport": "CFB",
+      "game": "FSU @ LOU",
+      "pick": "Over 59.5",
+      "result": "W",
+      "score": "LOU 44 - FSU 20 (64 total)",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-09",
+      "sport": "CFB",
+      "game": "IOWA @ WASH",
+      "pick": "IOWA +3",
+      "result": "W",
+      "score": "IOWA 41 - WASH 24",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-09",
+      "sport": "CFB",
+      "game": "ISU @ BYU",
+      "pick": "ISU +10.5",
+      "result": "L",
+      "score": "BYU 24 - ISU 10",
+      "units": -1.0,
+      "tier": "premium"
+    },
+    {
+      "date": "2026-10-09",
+      "sport": "CFB",
+      "game": "WYO @ SJSU",
+      "pick": "Under 42.5",
+      "result": "W",
+      "score": "WYO 16 - SJSU 13 (OT) (29 total)",
+      "units": 0.91,
+      "tier": "premium"
+    },
     {
       "date": "2026-10-08",
       "sport": "MLB",
