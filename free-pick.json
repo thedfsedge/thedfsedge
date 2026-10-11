@@ -1,24 +1,14 @@
 {
-  "date_label": "Saturday, October 10",
-  "board_title": "CFB Week 6 Board",
-  "featured": {
-    "sport": "CFB",
-    "matchup": "DUKE @ GT",
-    "pick": "DUKE -200",
-    "why": "fair 67.4% (devigged sharp blend) vs 66.7% implied at -200 (BetUS) \u2014 Duke 4-0, Georgia Tech thin on the defensive front; straight-up only"
-  },
-  "also_on_board": [
-    {
-      "sport": "CFB",
-      "matchup": "USC @ PSU",
-      "pick": "USC +116",
-      "why": "fair 46.7% (devigged sharp blend) vs 46.3% implied at +116 \u2014 PSU without WR Koby Howard and gashed on the ground last week; USC 5-1; White Out/travel priced in"
-    }
-  ],
+  "date_label": "Sunday, October 11",
+  "board_title": "NFL Week 5 Board",
+  "featured": null,
+  "also_on_board": [],
+  "thin_slate": true,
+  "note": "No plays cleared the +EV bar today.",
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-10-10"
+  "generated_at": "2026-10-11"
 }

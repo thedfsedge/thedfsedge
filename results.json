@@ -1,27 +1,67 @@
 {
   "summary": {
-    "wins": 27,
-    "losses": 19,
+    "wins": 28,
+    "losses": 22,
     "pushes": 1,
-    "record": "27-19-1",
-    "units": 5.57,
-    "plays_graded": 47,
+    "record": "28-22-1",
+    "units": 3.48,
+    "plays_graded": 51,
     "free": {
-      "wins": 26,
-      "losses": 17,
+      "wins": 27,
+      "losses": 18,
       "pushes": 1,
-      "record": "26-17-1",
-      "units": 6.66
+      "record": "27-18-1",
+      "units": 6.57
     },
     "premium": {
       "wins": 1,
-      "losses": 2,
+      "losses": 4,
       "pushes": 0,
-      "record": "1-2-0",
-      "units": -1.09
+      "record": "1-4-0",
+      "units": -3.09
     }
   },
   "plays": [
+    {
+      "date": "2026-10-10",
+      "sport": "CFB",
+      "game": "DUKE @ GT",
+      "pick": "DUKE -200",
+      "result": "L",
+      "score": "GT 28 - DUKE 25",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-10",
+      "sport": "CFB",
+      "game": "USC @ PSU",
+      "pick": "USC +116",
+      "result": "W",
+      "score": "USC 31 - PSU 23",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-10",
+      "sport": "CFB",
+      "game": "JMU @ GASO",
+      "pick": "Over 51.5",
+      "result": "L",
+      "score": "JMU 27 - GASO 24 (51 total)",
+      "units": -1.0,
+      "tier": "premium"
+    },
+    {
+      "date": "2026-10-10",
+      "sport": "CFB",
+      "game": "ILL @ MSU",
+      "pick": "MSU +132",
+      "result": "L",
+      "score": "ILL 38 - MSU 37 (OT)",
+      "units": -1.0,
+      "tier": "premium"
+    },
     {
       "date": "2026-10-09",
       "sport": "CFB",
@@ -493,5 +533,5 @@
       "tier": "free"
     }
   ],
-  "generated_at": "2026-10-10"
+  "generated_at": "2026-10-11"
 }
