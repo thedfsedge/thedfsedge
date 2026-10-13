@@ -1,0 +1,48 @@
+{
+  "date_label": "Tuesday, October 13",
+  "tagline": "We make a number for every game. We bet the ones where the market's wrong.",
+  "generated_at": "2026-10-13",
+  "links": {
+    "site": "https://thedfsedge.com",
+    "instagram": "https://www.instagram.com/thedfsedgeuni",
+    "discord": "https://discord.gg/3gEZHwWh6"
+  },
+  "games": [
+    {
+      "league": "MLB",
+      "market": "Rays -132 (consensus) / total 6.5-7; FanDuel: Rays -130, total 6.5 (O -128)",
+      "matchup": "Cleveland Guardians @ Tampa Bay Rays",
+      "our_fair": "Rays 55.2% / Guardians 44.8% (devigged Pinnacle, power devig)",
+      "take": "Cleveland took Game 1, 7-3, and the market moved with the loss \u2014 BetMGM went from Rays -130 to -140 this morning on 70% of moneyline wagers. That's public money, not sharp: no sharp-book disagreement surfaced, and there's no reverse line move to fade. Parker Messick (12-9, 2.56 ERA) gets the ball for Cleveland but owns a 5.40 postseason ERA across two short ALDS starts; Tampa answers with Freddy Peralta (1.93 postseason ERA). The Guardians' bullpen is in better shape after Game 1, and Cleveland just put Rhys Hoskins on the IL (back). We priced every book against the devigged Pinnacle fair: the closest number to our 2% bar was Rays -1.5 at +174/+175 offshore (+1.0-1.3% vs a 36.9% fair) \u2014 short of the bar and not at a bettable book. No true edge here.",
+      "title": "ALCS Game 2",
+      "tv": "TBS / truTV / HBO Max",
+      "venue": "Tropicana Field, St. Petersburg FL (indoor dome)",
+      "verdict": "LEAN: Tampa Bay -1.5 (run line) \u2014 the only line on this game that sniffed our bar (+1.0-1.3% vs fair offshore); below the 2% floor, so it's a lean, not a play. No edge at US books.",
+      "weather": "N/A \u2014 indoor dome. Tropics quiet (no active Atlantic cyclones); no NWS watches/warnings near the venue."
+    },
+    {
+      "league": "NCAAF",
+      "market": "Delaware -1.5 / total 47.5 (consensus; total opened 48.5)",
+      "matchup": "Delaware Fightin' Blue Hens @ Middle Tennessee Blue Raiders",
+      "our_fair": "Delaware 51.2% / MTSU 48.8% (devigged Pinnacle); total 47.5: Over 51.4% / Under 48.6%",
+      "take": "A coin-flip Conference USA game \u2014 Pinnacle's devigged line is essentially Delaware -1 with the total a dead heat, and not a single book anywhere beat the fair number. So there's no edge to bet, but there's a signal worth noting: the total opened 48.5 and dropped to 47.5 despite heavy public support for the Over \u2014 a reverse-line move toward the Under, and both teams have gone under in 4 of 5 this season. The one real personnel question is Delaware QB Nick Minicucci, who missed the Liberty loss with injury; his status is unconfirmed, and backup-quarterback uncertainty points the same way as the line move. Weather is clean in Murfreesboro: clear, ~80\u00b0F at kickoff, no NWS alerts.",
+      "title": "Delaware @ Middle Tennessee",
+      "tv": "CBSSN",
+      "venue": "Johnny \"Red\" Floyd Stadium, Murfreesboro TN",
+      "verdict": "LEAN: Under 47.5 \u2014 no true edge per our fair line, but the lean is Under on the reverse-line move (48.5 \u2192 47.5 against public Over money), two 4-of-5 under teams, and QB uncertainty for Delaware.",
+      "weather": "CLEAN \u2014 no NWS watches/warnings (Rutherford County); clear, ~80\u00b0F at kickoff, wind SSW ~4 mph."
+    },
+    {
+      "league": "NCAAF",
+      "market": "Jacksonville State -2.5 to -3 / total 43.5 (consensus)",
+      "matchup": "Florida International Panthers @ Jacksonville State Gamecocks",
+      "our_fair": "Jacksonville State 58.0% / FIU 42.0% (devigged Pinnacle); total 43.5: Over 49.5% / Under 50.5%",
+      "take": "The market has this one nailed \u2014 every book sits at or under the devigged Pinnacle fair, so there's no edge to bet. But FIU's defense is the story of the night: 4th nationally in total defense, 6th in scoring defense at 12.2 points per game, and the Panthers' games have gone under in 4 of 5. Jacksonville State is 3-1 ATS as a 3+ point favorite and quarterback Caden Creel is a legitimate dual threat (1,423 pass yards, 405 rush yards), but that elite FIU front against a home favorite laying a short number is exactly the profile that keeps games in the 20s. The total opened where it sits (43.5) and the spread has drifted slightly toward Jax State (-2.5 \u2192 -3). Clean weather in Jacksonville: 74\u00b0F, clear at kickoff.",
+      "title": "FIU @ Jacksonville State",
+      "tv": "Check local listings",
+      "venue": "AmFirst Stadium, Jacksonville AL",
+      "verdict": "LEAN: Under 43.5 \u2014 no true edge per our fair line, but the lean is Under on the best defense in the matchup (FIU: 12.2 ppg allowed) plus 4-of-5 unders in Panthers games.",
+      "weather": "CLEAN \u2014 no NWS watches/warnings (Calhoun County); ~74\u00b0F, clear, rain 2-3%. (A high-wind warning from Hurricane Isaias remnants expired Sat \u2014 no lingering effects.)"
+    }
+  ]
+}
