@@ -1,7 +1,7 @@
 {
-  "date_label": "Tuesday, October 13",
+  "date_label": "Wednesday, October 14",
   "tagline": "We make a number for every game. We bet the ones where the market's wrong.",
-  "generated_at": "2026-10-13",
+  "generated_at": "2026-10-14",
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
@@ -10,39 +10,51 @@
   "games": [
     {
       "league": "MLB",
-      "market": "Rays -132 (consensus) / total 6.5-7; FanDuel: Rays -130, total 6.5 (O -128)",
-      "matchup": "Cleveland Guardians @ Tampa Bay Rays",
-      "our_fair": "Rays 55.2% / Guardians 44.8% (devigged Pinnacle, power devig)",
-      "take": "Cleveland took Game 1, 7-3, and the market moved with the loss \u2014 BetMGM went from Rays -130 to -140 this morning on 70% of moneyline wagers. That's public money, not sharp: no sharp-book disagreement surfaced, and there's no reverse line move to fade. Parker Messick (12-9, 2.56 ERA) gets the ball for Cleveland but owns a 5.40 postseason ERA across two short ALDS starts; Tampa answers with Freddy Peralta (1.93 postseason ERA). The Guardians' bullpen is in better shape after Game 1, and Cleveland just put Rhys Hoskins on the IL (back). We priced every book against the devigged Pinnacle fair: the closest number to our 2% bar was Rays -1.5 at +174/+175 offshore (+1.0-1.3% vs a 36.9% fair) \u2014 short of the bar and not at a bettable book. No true edge here.",
-      "title": "ALCS Game 2",
-      "tv": "TBS / truTV / HBO Max",
-      "venue": "Tropicana Field, St. Petersburg FL (indoor dome)",
-      "verdict": "LEAN: Tampa Bay -1.5 (run line) \u2014 the only line on this game that sniffed our bar (+1.0-1.3% vs fair offshore); below the 2% floor, so it's a lean, not a play. No edge at US books.",
-      "weather": "N/A \u2014 indoor dome. Tropics quiet (no active Atlantic cyclones); no NWS watches/warnings near the venue."
+      "market": "Dodgers -169 / Brewers +155; total 7.5 (Over +102 / Under -115); run line Brewers +1.5 (-144)",
+      "matchup": "Milwaukee Brewers @ Los Angeles Dodgers",
+      "our_fair": "Dodgers 61.9% / Brewers 38.1% (devigged Pinnacle h2h, power devig); total 7.5: Over 48.6% / Under 51.4%",
+      "take": "The Brewers are two wins from their first World Series in 44 years, up 2-0 after taking both in Milwaukee (2-1, 7-4) \u2014 their first-ever 2-0 lead in a best-of-seven. Tonight it's a southpaw duel: Blake Snell (4-1, 1.90 ERA) for the Dodgers against Robert Gasser (5-5, 3.87) for Milwaukee. Snell's stuff is elite but his command wobbled last start (5 walks in 3.2 IP vs Atlanta); Gasser threw four one-run innings against these Dodgers earlier this postseason, and Milwaukee's bullpen has been lockdown all October. The Dodgers are 52-31 at home and desperate \u2014 down 0-3 is a death sentence \u2014 but the market has this one priced right: our fair line sits within a point of the board everywhere. Weather is a non-issue tonight (clear, mid-70s); note the NWS Heat Advisory for LA starts Thursday morning, which could matter for Games 4-5.",
+      "time": "7:00 PM CT",
+      "title": "NLCS Game 3",
+      "tv": "FS1",
+      "venue": "Dodger Stadium, Los Angeles",
+      "verdict": "LEAN: Dodgers -169 \u2014 no true edge (fair 61.9% vs 62.8% implied, -1.5% EV), but the lean is the home favorite: the better on-paper starter, the must-win spot, and the number closest to fair. This is an opinion, not a play."
     },
     {
       "league": "NCAAF",
-      "market": "Delaware -1.5 / total 47.5 (consensus; total opened 48.5)",
-      "matchup": "Delaware Fightin' Blue Hens @ Middle Tennessee Blue Raiders",
-      "our_fair": "Delaware 51.2% / MTSU 48.8% (devigged Pinnacle); total 47.5: Over 51.4% / Under 48.6%",
-      "take": "A coin-flip Conference USA game \u2014 Pinnacle's devigged line is essentially Delaware -1 with the total a dead heat, and not a single book anywhere beat the fair number. So there's no edge to bet, but there's a signal worth noting: the total opened 48.5 and dropped to 47.5 despite heavy public support for the Over \u2014 a reverse-line move toward the Under, and both teams have gone under in 4 of 5 this season. The one real personnel question is Delaware QB Nick Minicucci, who missed the Liberty loss with injury; his status is unconfirmed, and backup-quarterback uncertainty points the same way as the line move. Weather is clean in Murfreesboro: clear, ~80\u00b0F at kickoff, no NWS alerts.",
-      "title": "Delaware @ Middle Tennessee",
+      "market": "WKU -1.5 (consensus) / total 52.5",
+      "matchup": "Western Kentucky Hilltoppers @ Sam Houston State Bearkats",
+      "our_fair": "WKU -1.5 covers 47.6% (devigged Pinnacle, power devig); total 52.5: Over 51.0% / Under 49.0%",
+      "take": "WKU finally found its offense last week, beating Missouri State 34-13 with 464 yards \u2014 Brock Glenn's dual-threat game (211 pass, 95 rush) plus Ajay Allen's 105 rushing yards gives the Hilltoppers the best unit on the field tonight against a Sam Houston defense allowing 6.0 yards per carry. The Bearkats have scored 17 combined points across their last two FBS games (35-3 loss at Liberty). Injury watch: WKU has four skill players questionable (RBs Baines and Boyd, WRs Hutchinson and Johnson); Sam Houston is without TE Kuhl (out for season). The market number is fair \u2014 but one book is dealing WKU +1.5, three full points off the Pinnacle spread, and that's a board play (+2.5% vs our fair). Weather screen clean: no NWS alerts for Huntsville, clear and ~80\u00b0F at kickoff.",
+      "time": "7:00 PM CT",
+      "title": "Western Kentucky @ Sam Houston State",
+      "tv": "ESPN",
+      "venue": "Bowers Stadium, Huntsville, TX",
+      "verdict": "LEAN: WKU +1.5 \u2014 this is a board play (+2.5% vs our fair on the stale soft-book line). Even at the market number, lean the Hilltoppers: the ground game travels, and Sam Houston can't stop the run."
+    },
+    {
+      "league": "WTA",
+      "market": "Total 21.0 (Over -101 / Under -113, Pinnacle)",
+      "matchup": "Maria Sakkari vs Mia Pohankova",
+      "our_fair": "Over 21.0: 48.6% (devigged Pinnacle, power devig); Over 20.5 \u2248 55.6% including ~7% of outcomes landing exactly on 21 games",
+      "take": "Round of 16 in Wuhan, first career meeting. Sakkari (world No. 35) is in real form \u2014 straight-set wins over Donna Vekic and No. 10 Marta Kostyuk (4-6, 6-2, 6-2) this week. Across the net is 17-year-old Slovakian qualifier Mia Pohankova (No. 202), who survived Xiyu Wang in three sets and has been feisty all week. The play here is the number, not the narrative: Pinnacle's fair total is 21.0 and we're getting 20.5, a full game of value with the exactly-21 cluster (7-5 sets, 6-4/4-6/7-5 type three-setters) doing the work. That's a board play at -111 (+3.0% vs our fair). Conditions: outdoor hard, 24\u00b0C with light haze \u2014 playable, nothing severe.",
+      "time": "10:00 PM CT",
+      "title": "Wuhan Open \u2014 Round of 16",
+      "tv": "WTA TV",
+      "venue": "Optics Valley International Tennis Center, Wuhan (Court 1, outdoor hard)",
+      "verdict": "LEAN: Over 20.5 games \u2014 board play. The fair total says 21.0; the 20.5 is on the right side of the key number, and both players have gone three sets already this week."
+    },
+    {
+      "league": "NCAAF",
+      "market": "Kennesaw State -3 (consensus) / total 52.5",
+      "matchup": "Kennesaw State Owls @ Missouri State Bears",
+      "our_fair": "Kennesaw State 58.5% / Missouri State 41.5% (devigged Pinnacle h2h, power devig); total 52.5 \u2248 coin flip (Over 49.7%)",
+      "take": "Two 1-4 teams chasing their first CUSA win, but they're trending opposite directions. Kennesaw State \u2014 the defending conference champs \u2014 has lost back-to-back heartbreakers by one score (27-26 to Jax State on a last-minute field goal) and just put up 411 yards of offense, the eighth-most in program FBS history, behind dual-threat QB Rickie Collins and WR Brayden Munroe (159 yards last week). Missouri State has dropped three straight, is allowing 32.4 points per game (122nd nationally), and has a live QB question after Skyler Locklear cramped out against WKU and Henry Belin IV finished \u2014 the coach says everything is on the table. The market's -3 is fair; there's no edge to bet.",
+      "time": "6:30 PM CT",
+      "title": "Kennesaw State @ Missouri State",
       "tv": "CBSSN",
-      "venue": "Johnny \"Red\" Floyd Stadium, Murfreesboro TN",
-      "verdict": "LEAN: Under 47.5 \u2014 no true edge per our fair line, but the lean is Under on the reverse-line move (48.5 \u2192 47.5 against public Over money), two 4-of-5 under teams, and QB uncertainty for Delaware.",
-      "weather": "CLEAN \u2014 no NWS watches/warnings (Rutherford County); clear, ~80\u00b0F at kickoff, wind SSW ~4 mph."
-    },
-    {
-      "league": "NCAAF",
-      "market": "Jacksonville State -2.5 to -3 / total 43.5 (consensus)",
-      "matchup": "Florida International Panthers @ Jacksonville State Gamecocks",
-      "our_fair": "Jacksonville State 58.0% / FIU 42.0% (devigged Pinnacle); total 43.5: Over 49.5% / Under 50.5%",
-      "take": "The market has this one nailed \u2014 every book sits at or under the devigged Pinnacle fair, so there's no edge to bet. But FIU's defense is the story of the night: 4th nationally in total defense, 6th in scoring defense at 12.2 points per game, and the Panthers' games have gone under in 4 of 5. Jacksonville State is 3-1 ATS as a 3+ point favorite and quarterback Caden Creel is a legitimate dual threat (1,423 pass yards, 405 rush yards), but that elite FIU front against a home favorite laying a short number is exactly the profile that keeps games in the 20s. The total opened where it sits (43.5) and the spread has drifted slightly toward Jax State (-2.5 \u2192 -3). Clean weather in Jacksonville: 74\u00b0F, clear at kickoff.",
-      "title": "FIU @ Jacksonville State",
-      "tv": "ESPNU",
-      "venue": "AmFirst Stadium (Burgess-Snow Field), Jacksonville AL",
-      "verdict": "LEAN: Under 43.5 \u2014 no true edge per our fair line, but the lean is Under on the best defense in the matchup (FIU: 12.2 ppg allowed) plus 4-of-5 unders in Panthers games.",
-      "weather": "CLEAN \u2014 no NWS watches/warnings (Calhoun County); ~74\u00b0F, clear, rain 2-3%. (A high-wind warning from Hurricane Isaias remnants expired Sat \u2014 no lingering effects.)"
+      "venue": "Plaster Stadium, Springfield, MO",
+      "verdict": "LEAN: Kennesaw State -3 \u2014 no true edge per our fair line (KSU -3 \u2248 49.5% vs 51.0% implied), but the lean is the Owls: the better team, the better form, and Missouri State's quarterback situation is unsettled."
     }
   ]
 }
