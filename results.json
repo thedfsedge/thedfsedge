@@ -1,17 +1,17 @@
 {
   "summary": {
-    "wins": 28,
-    "losses": 22,
+    "wins": 29,
+    "losses": 23,
     "pushes": 1,
-    "record": "28-22-1",
-    "units": 3.48,
-    "plays_graded": 51,
+    "record": "29-23-1",
+    "units": 3.39,
+    "plays_graded": 53,
     "free": {
-      "wins": 27,
-      "losses": 18,
+      "wins": 28,
+      "losses": 19,
       "pushes": 1,
-      "record": "27-18-1",
-      "units": 6.57
+      "record": "28-19-1",
+      "units": 6.48
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,26 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-10-14",
+      "sport": "NCAAF",
+      "game": "WKU @ SHSU",
+      "pick": "WKU +1.5",
+      "result": "W",
+      "score": "WKU 16 - SHSU 3",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-14",
+      "sport": "WTA",
+      "game": "Sakkari vs Pohankova",
+      "pick": "Over 20.5",
+      "result": "L",
+      "score": "Sakkari 6-1, 6-4 (17 games)",
+      "units": -1.0,
+      "tier": "free"
+    },
     {
       "date": "2026-10-10",
       "sport": "CFB",
