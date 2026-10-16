@@ -1,24 +1,17 @@
 {
-  "date_label": "Wednesday, October 14",
-  "board_title": "Wednesday Board",
+  "date_label": "Thursday, October 15",
+  "board_title": "Thursday Board",
   "featured": {
     "sport": "NCAAF",
-    "matchup": "WKU @ SHSU",
-    "pick": "WKU +1.5",
-    "why": "Devigged Pinnacle fair: WKU -1.5 (+103/-116, power devig) -> P(WKU +1.5 covers) ~57.7% via normal model vs 55.0% implied at -122 = +2.5% edge. Soft-book line is 3 points off the sharp spread. Weather screen clean (no NWS watches/warnings, Huntsville TX)."
+    "matchup": "CSU @ TXST",
+    "pick": "Over 69.5",
+    "why": "Devigged Pinnacle total 69.5 (Over -119/Under +102, power devig) -> P(Over 69.5) 52.5% vs 51.2% implied at -105 = +2.5% edge. Sharp market 17 cents wide (real liquidity). Weather screen clean (no NWS watches/warnings, San Marcos TX, ~84F dry at kickoff)."
   },
-  "also_on_board": [
-    {
-      "sport": "WTA",
-      "matchup": "Sakkari vs Pohankova",
-      "pick": "Over 20.5",
-      "why": "Devigged Pinnacle total 21.0 (Over -101/Under -113, power devig) -> P(Over 20.5) ~55.6% incl ~7% exactly-21 mass vs 52.6% implied at -111 = +3.0% edge. Wuhan R16, outdoor hard, 24C/light haze, no severe weather."
-    }
-  ],
+  "also_on_board": [],
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-10-14"
+  "generated_at": "2026-10-15"
 }

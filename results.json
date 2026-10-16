@@ -1,17 +1,17 @@
 {
   "summary": {
-    "wins": 29,
+    "wins": 30,
     "losses": 23,
     "pushes": 1,
-    "record": "29-23-1",
-    "units": 3.39,
-    "plays_graded": 53,
+    "record": "30-23-1",
+    "units": 4.3,
+    "plays_graded": 54,
     "free": {
-      "wins": 28,
+      "wins": 29,
       "losses": 19,
       "pushes": 1,
-      "record": "28-19-1",
-      "units": 6.48
+      "record": "29-19-1",
+      "units": 7.39
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,16 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-10-15",
+      "sport": "NCAAF",
+      "game": "CSU @ TXST",
+      "pick": "Over 69.5",
+      "result": "W",
+      "score": "TXST 66 - CSU 27 (93 total)",
+      "units": 0.91,
+      "tier": "free"
+    },
     {
       "date": "2026-10-14",
       "sport": "NCAAF",
@@ -553,5 +563,5 @@
       "tier": "free"
     }
   ],
-  "generated_at": "2026-10-14"
+  "generated_at": "2026-10-15"
 }
