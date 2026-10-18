@@ -1,17 +1,14 @@
 {
-  "date_label": "Thursday, October 15",
-  "board_title": "Thursday Board",
-  "featured": {
-    "sport": "NCAAF",
-    "matchup": "CSU @ TXST",
-    "pick": "Over 69.5",
-    "why": "Devigged Pinnacle total 69.5 (Over -119/Under +102, power devig) -> P(Over 69.5) 52.5% vs 51.2% implied at -105 = +2.5% edge. Sharp market 17 cents wide (real liquidity). Weather screen clean (no NWS watches/warnings, San Marcos TX, ~84F dry at kickoff)."
-  },
+  "date_label": "Sunday, October 18",
+  "board_title": "NFL Week 6 Board",
+  "featured": null,
   "also_on_board": [],
+  "thin_slate": true,
+  "note": "No plays cleared the +EV bar today.",
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-10-15"
+  "generated_at": "2026-10-18"
 }
