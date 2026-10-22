@@ -1,24 +1,14 @@
 {
-  "date_label": "Wednesday, October 21",
-  "board_title": "Wednesday Board",
-  "featured": {
-    "sport": "NBA",
-    "matchup": "CHA @ BKN",
-    "pick": "CHA -104",
-    "why": "fair 51.8% (devigged Pinnacle -113, 11c-wide sharp market) vs 51.0% implied at -104 \u2014 FanDuel 9c soft of the sharp number. EV +1.6%"
-  },
-  "also_on_board": [
-    {
-      "sport": "NBA",
-      "matchup": "CHA @ BKN",
-      "pick": "Over 219.5",
-      "why": "fair 51.7% (devigged Pinnacle Over -113 at 219.5, 12c-wide sharp market) vs 51.0% implied at -104 \u2014 total steamed 220.5\u2192219.5 on public Under money, Pinnacle never followed. EV +1.4%"
-    }
-  ],
+  "date_label": "Thursday, October 22",
+  "board_title": "Thursday Board",
+  "featured": null,
+  "also_on_board": [],
+  "thin_slate": true,
+  "note": "No plays cleared the +EV bar today.",
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-10-21"
+  "generated_at": "2026-10-22"
 }
