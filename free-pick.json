@@ -1,14 +1,17 @@
 {
-  "date_label": "Thursday, October 22",
-  "board_title": "Thursday Board",
-  "featured": null,
+  "date_label": "Friday, October 23",
+  "board_title": "Friday Board",
+  "featured": {
+    "sport": "CFB",
+    "matchup": "NCST @ STAN",
+    "pick": "Over 55.5",
+    "why": "fair 50.5% (devigged Pinnacle) vs 50.0% implied at +100 \u2014 ESPN BET hanging even money on Over 55.5 while Pinnacle/FanDuel/DraftKings all charge -105 to -110; 98% of tracked total money on the Under"
+  },
   "also_on_board": [],
-  "thin_slate": true,
-  "note": "No plays cleared the +EV bar today.",
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-10-22"
+  "generated_at": "2026-10-23"
 }

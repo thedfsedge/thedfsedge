@@ -1,7 +1,7 @@
 {
-  "date_label": "Thursday, October 22",
+  "date_label": "Friday, October 23",
   "tagline": "We make a number for every game. We bet the ones where the market's wrong.",
-  "generated_at": "2026-10-22",
+  "generated_at": "2026-10-23",
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
@@ -9,76 +9,94 @@
   },
   "games": [
     {
-      "league": "NFL",
-      "market": "Bears -3 (-105), O/U 50.5 (-114/+101) (Pinnacle)",
-      "matchup": "New England Patriots @ Chicago Bears",
-      "our_fair": "Bears 60.2% / Patriots 39.8% (devigged Pinnacle)",
-      "take": "Both teams are 4-2 and the market has sat on Bears -3 all week, so the price on the key number is the whole story. New England will be without both starting guards (Vera-Tucker, Ben Brown) plus CB Carlton Davis III, with two backup corners already ruled out \u2014 a reshuffled interior against a Chicago front with 17 sacks on a short week is the sharpest pressure point in the game. Caleb Williams returned from a three-game hamstring absence last week and went 30-of-36 against Atlanta. Chicago averages 160.7 rushing yards per game, but without Kyle Monangai (out again) that number has cratered to 89.5. No true edge at -3 against our fair line \u2014 but if you're picking a side, the patched-up Patriots line vs the Chicago pass rush is the reason to lean the home favorite.",
-      "time": "7:15 PM CT",
-      "title": "Thursday Night Football",
+      "league": "MLB",
+      "market": "Brewers -190, total 6.5 (FOX)",
+      "matchup": "Tampa Bay Rays @ Milwaukee Brewers",
+      "our_fair": "Brewers 62.9% / Rays 37.1% (devigged Pinnacle)",
+      "take": "First World Series for a first-time champion either way: Milwaukee (103-59) swept the Dodgers in the NLCS behind likely Cy Young winner Jacob Misiorowski (16-5, 1.80 ERA), who starts Game 1 against Tampa Bay's Nick Martinez. The Brewers have steamed from -160 to -190 on 81% public run-line tickets \u2014 that's a crowd, not sharp money \u2014 and no book is giving anything away: the best number on either side is -1.4% EV or worse. Retractable roof, no weather angle.",
+      "time": "7:08 PM CT",
+      "title": "World Series Game 1",
+      "tv": "FOX",
+      "venue": "American Family Field, Milwaukee",
+      "verdict": "LEAN: Rays +170 (BetRivers) \u2014 no true edge, but the lean is Tampa Bay: the only side the market hasn't overcharged after the public steamed Milwaukee 30 cents."
+    },
+    {
+      "league": "NBA",
+      "market": "Celtics -2.5, total 223.5 (Prime Video)",
+      "matchup": "New York Knicks @ Boston Celtics",
+      "our_fair": "Celtics 54.6% / Knicks 45.4% (devigged Pinnacle)",
+      "take": "Banner-night rematch: Philadelphia spoiled Boston's opener 106-100 behind Paul George's 38-point Celtics debut. Mitchell Robinson (ankle) practiced Thursday and is expected back for New York; Boston is without Devin Carter (mono). The number has sat at -2.5 all week \u2014 the market sees these as even with homecourt doing the work.",
+      "time": "6:00 PM CT",
+      "title": "Knicks @ Celtics",
       "tv": "Prime Video",
-      "venue": "Soldier Field, Chicago",
-      "verdict": "LEAN: Bears -3"
-    },
-    {
-      "league": "CFB",
-      "market": "JMU -12.5 (-104), O/U 56.5 (-106/-110) (Pinnacle)",
-      "matchup": "James Madison Dukes @ Appalachian State Mountaineers",
-      "our_fair": "James Madison 81.3% / Appalachian State 18.7% (devigged Pinnacle)",
-      "take": "The 7-0 Dukes are 4-0 in Sun Belt play and 3-0 on the road, averaging 42.9 points per game behind a physical run game (George Pettaway, 767 yards, 7 TDs). The advanced ratings back them hard \u2014 roughly a 17-point gap in SP+ before home field. App State's offense is the problem: the Mountaineers managed three points at home against Old Dominion, QB Malachi Singleton's ankle status is uncertain, both lead backs are questionable, and two defensive linemen are out. The total dropped from 57.5 to 56.5 despite nearly all the money on the Over \u2014 reverse line movement worth respecting. No true edge: Pinnacle has pushed to -12.5 past the -10.5/-11.5 consensus. Lean JMU because the rating gap and the QB uncertainty are real, but the number has moved away from us.",
-      "time": "6:00 PM CT",
-      "title": "JMU at App State",
-      "tv": "ESPNU",
-      "venue": "Kidd Brewer Stadium, Boone NC",
-      "verdict": "LEAN: James Madison -12.5"
-    },
-    {
-      "league": "CFB",
-      "market": "Liberty -9.5 (-104), O/U 50 (-114/-102) (Pinnacle)",
-      "matchup": "Liberty Flames @ Kennesaw State Owls",
-      "our_fair": "Liberty 78.0% / Kennesaw State 22.0% (devigged Pinnacle)",
-      "take": "Liberty has won five straight, four by at least 16 points, and owns top-20 EPA marks in every offensive category. QB Deshawn Purdie has eight touchdowns without an interception, and the Flames average 223 rushing yards per game (15th nationally) against a Kennesaw State defense that ranks 118th in passing EPA and havoc rate. But the Owls have lost their last three by a combined seven points \u2014 they're competitive, just unable to finish \u2014 and they own this series recently (wins in 2024 and last November). No true edge at -9.5 against our fair line. Lean Liberty because the talent and EPA gaps are too wide for a full 60 minutes, but the one-score-loss streak means the dog is live.",
-      "time": "6:00 PM CT",
-      "title": "Liberty at Kennesaw State",
-      "tv": "CBSSN",
-      "venue": "Fifth Third Stadium, Kennesaw GA",
-      "verdict": "LEAN: Liberty -9.5"
-    },
-    {
-      "league": "CFB",
-      "market": "Memphis -10.5 (-104), O/U 54 (-108/-108) (Pinnacle)",
-      "matchup": "East Carolina Pirates @ Memphis Tigers",
-      "our_fair": "Memphis 79.2% / East Carolina 20.8% (devigged Pinnacle)",
-      "take": "Memphis has the more explosive offense by a mile \u2014 QB Marcus Stokes leads the conference with 18 touchdown passes, RB Jaylin Carter leads it with 780 rushing yards \u2014 but the Tigers are coming off a 31-17 loss at Tulane where they turned it over six times, and this spread has already moved from -9.5 to -10.5 on all-Tigers money. ECU has covered seven of its last ten against Memphis, won the last three meetings, and five of its six games this season have gone Under the total. The Pirates' offense is limited (655 passing yards for Emory Williams), but their defense has allowed 27 or fewer in four straight regulation games. No true edge on the side. Lean the Under 54: ECU's pace and red-zone limitations make it hard for them to do their share of the scoring.",
-      "time": "6:30 PM CT",
-      "title": "ECU at Memphis",
-      "tv": "ESPN2",
-      "venue": "Simmons Bank Liberty Stadium, Memphis TN",
-      "verdict": "LEAN: Under 54"
+      "venue": "TD Garden, Boston",
+      "verdict": "LEAN: Celtics -2.5 \u2014 no true edge, but the lean is Boston: the Garden crowd off a banner-night loss, and the Knicks' frontcourt is still rounding into shape."
     },
     {
       "league": "NBA",
-      "market": "76ers -3.5 (-102), O/U 235.5 (-112/-101) (Pinnacle)",
-      "matchup": "Cleveland Cavaliers @ Philadelphia 76ers",
-      "our_fair": "76ers 58.6% / Cavaliers 41.4% (devigged Pinnacle)",
-      "take": "Cleveland opens its season in Philadelphia, where the new-look 76ers are 1-0 after grinding out a 106-100 win at the Knicks on Tuesday \u2014 the first look at LeBron James, Jaylen Brown, Tyrese Maxey and Joel Embiid sharing a floor, with Maxey dropping 28. The injury report is the whole story: Jarrett Allen is questionable with a knee issue, and the market moved from -2.5 to -3.5 on his uncertainty. If he plays, Cleveland getting +3.5 is the best number on the board; if he sits, the move is roughly fair. The Cavs kept Mitchell, Harden, Mobley and added Peyton Watson, and they posted a +4.1 net rating last season against -0.1 for Philly. No true edge either way \u2014 lean Cavaliers +3.5, but wait for Allen's status before anything touches real money.",
-      "time": "6:10 PM CT",
-      "title": "Cavs at 76ers",
-      "tv": "ESPN",
-      "venue": "Xfinity Mobile Arena, Philadelphia",
-      "verdict": "LEAN: Cavaliers +3.5"
-    },
-    {
-      "league": "NBA",
-      "market": "Thunder -8.5 (-103), O/U 236.5 (+101/-114) (Pinnacle)",
-      "matchup": "Denver Nuggets @ Oklahoma City Thunder",
-      "our_fair": "Thunder 73.9% / Nuggets 26.1% (devigged Pinnacle)",
-      "take": "Denver opens its season in the league's toughest road building against a Thunder team that opened with a 116-104 win at San Antonio on Tuesday behind Shai Gilgeous-Alexander's 32. The Thunder are co-title favorites for a reason, but this is the classic letdown spot: emotional season opener Tuesday, now a home favorite laying 8.5 on the second leg of a week-one back-to-back-adjacent stretch while a fresh Denver team with a full offseason walks in. There's no edge against our fair line \u2014 OKC is priced like the powerhouse it is. Lean Nuggets +8.5 because early-season road dogs getting the best number (FanDuel and Fanatics deal +8; Pinnacle's 8.5 is the market high) is a structurally sound spot, and the Thunder's pace can just as easily produce a late backdoor as a blowout.",
-      "time": "8:40 PM CT",
-      "title": "Nuggets at Thunder",
+      "market": "Wolves -1.5, total 235.5",
+      "matchup": "Minnesota Timberwolves @ Orlando Magic",
+      "our_fair": "Magic 50.5% / Wolves 49.5% (devigged Pinnacle)",
+      "take": "A true coin flip. Anthony Edwards hung 45 in the opener; Orlando is down three rotation bigs (Isaac, Black, Penda) and still practicing without them. ESPN BET briefly hung +110 on Minnesota this morning (+4.0% EV) and corrected to +100 within minutes \u2014 the edge evaporated before post time, which is the whole game at these margins.",
+      "time": "6:00 PM CT",
       "tv": "",
-      "venue": "Paycom Center, Oklahoma City",
-      "verdict": "LEAN: Nuggets +8.5"
+      "venue": "Kia Center, Orlando",
+      "verdict": "LEAN: Timberwolves -1.5 \u2014 no true edge, but the lean is Minnesota: Orlando's frontcourt is held together with tape and Edwards is in form."
+    },
+    {
+      "league": "NBA",
+      "market": "Warriors -3, total 234",
+      "matchup": "Memphis Grizzlies @ Golden State Warriors",
+      "our_fair": "Warriors 62.4% / Grizzlies 37.6% (devigged Pinnacle)",
+      "take": "Ty Jerome dropped a franchise-opener-record 45 in his Memphis debut; the Warriors lost by 22 to the Lakers and are still without Porzingis (away from team), Butler (ACL) and Moody. The line has come down from -4 to -3 on Memphis money. Golden State at home off an embarrassing loss is the classic bounce-back spot, but the roster is thin.",
+      "time": "9:00 PM CT",
+      "tv": "",
+      "venue": "Chase Center, San Francisco",
+      "verdict": "LEAN: Warriors -3 \u2014 no true edge, but the lean is Golden State: homecourt off a 22-point loss, against a Memphis team that may have spent its best punch in the opener."
+    },
+    {
+      "league": "CFB",
+      "market": "Virginia -2, total 47 (ESPN)",
+      "matchup": "Duke @ Virginia",
+      "our_fair": "Virginia 50.7% / Duke 49.3% (devigged Pinnacle)",
+      "take": "Rematch of last year's ACC title game (Duke won 27-20 in OT). Both training rooms are full: Duke is down 12 including four offensive linemen and two receivers; Virginia is down 20 including three linemen and its kicker. When both teams are this gutted, take the home team in the revenge spot and the under on a 47 total with backup linemen everywhere.",
+      "time": "6:00 PM CT",
+      "tv": "ESPN",
+      "venue": "Scott Stadium, Charlottesville",
+      "verdict": "LEAN: Virginia -2 \u2014 no true edge, but the lean is the Cavaliers: at home, revenge spot, and both teams are equally banged up."
+    },
+    {
+      "league": "CFB",
+      "market": "Tulsa -1.5, total 54 (ESPN2)",
+      "matchup": "Army @ Tulsa",
+      "our_fair": "Tulsa 50.2% / Army 49.8% (devigged Pinnacle)",
+      "take": "The market already told this story: BetMGM had Army -1.5 three days ago and it's Tulsa -1.5 now, a 3-point flip on Army's injury report (RB Brady Mott out for the season, top pass-catchers questionable) on a short week. The value was the move itself. At the current number, lean the healthier home roster.",
+      "time": "7:30 PM CT",
+      "tv": "ESPN2",
+      "venue": "H.A. Chapman Stadium, Tulsa",
+      "verdict": "LEAN: Tulsa -1.5 \u2014 no true edge, but the lean is the Golden Hurricane: the line move already priced Army's injuries, and Tulsa is the healthier team at home."
+    },
+    {
+      "league": "CFB",
+      "market": "NC State -6.5, total 55.5 (ESPN)",
+      "matchup": "NC State @ Stanford",
+      "our_fair": "Stanford 50.5% / NC State 49.5% (devigged Pinnacle, spread); Over 55.5 fair 50.5%",
+      "take": "Our board play is the total: ESPN BET is hanging +100 on Over 55.5 while Pinnacle, FanDuel and DraftKings all charge -105 to -110 (+0.9% EV). On the side, the line moved toward Stanford (-7 to -6.5) despite 100% of tracked money on NC State \u2014 a sharp-vs-public split worth noting with the Wolfpack down three starting linemen and their leading rusher.",
+      "time": "9:30 PM CT",
+      "tv": "ESPN",
+      "venue": "Stanford Stadium, Stanford",
+      "verdict": "LEAN: Stanford +6.5 \u2014 no true edge, but the lean is the Cardinal: the line moved their way against the money, and NC State's offensive line is in pieces."
+    },
+    {
+      "league": "NBA",
+      "market": "Lakers -9.5, total 228.5",
+      "matchup": "LA Clippers @ Los Angeles Lakers",
+      "our_fair": "Lakers 49.8% / Clippers 50.2% (devigged Pinnacle, spread)",
+      "take": "The battle of LA with one team on crutches: the Clippers are without Bradley Beal, Brandon Ingram, Max Strus and two more rotation pieces. The Lakers' opener was the sharper performance (127-105 over Golden State, Don\u010di\u0107 28/8/7 with a 49-foot buzzer-beater). Nine and a half is a big number, but the talent gap tonight is bigger.",
+      "time": "9:00 PM CT",
+      "tv": "",
+      "venue": "Crypto.com Arena, Los Angeles",
+      "verdict": "LEAN: Lakers -9.5 \u2014 no true edge, but the lean is the Lakers: the Clippers' injury list reads like a starting five, and the Lakers looked the part in their opener."
     }
   ]
 }
