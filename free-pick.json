@@ -1,17 +1,54 @@
 {
-  "date_label": "Friday, October 23",
-  "board_title": "Friday Board",
+  "date_label": "Saturday, October 24",
+  "board_title": "Saturday Board",
   "featured": {
     "sport": "CFB",
-    "matchup": "NCST @ STAN",
-    "pick": "Over 55.5",
-    "why": "fair 50.5% (devigged Pinnacle) vs 50.0% implied at +100 \u2014 ESPN BET hanging even money on Over 55.5 while Pinnacle/FanDuel/DraftKings all charge -105 to -110; 98% of tracked total money on the Under"
+    "matchup": "RICE @ FAU",
+    "pick": "FAU",
+    "why": "fair 76.5% (devigged Pinnacle) vs 75.0% implied at -300 \u2014 BetUS hanging -300 while Pinnacle is -347 and the market is ~-340; FAU 4-2 at home vs 1-6 Rice"
   },
-  "also_on_board": [],
+  "also_on_board": [
+    {
+      "sport": "CFB",
+      "matchup": "RUTG @ NW",
+      "pick": "NW",
+      "why": "fair 87.4% (devigged Pinnacle) vs 86.7% implied at -650 \u2014 BetUS hanging -650 while Pinnacle is -756 and most of the market is -800; thin +0.8% EV"
+    },
+    {
+      "sport": "CFB",
+      "matchup": "SJSU @ NEV",
+      "pick": "NEV",
+      "why": "fair 69.9% (devigged Pinnacle) vs 68.1% implied at -213 \u2014 Courtside hanging -213 while Pinnacle is -245; SJSU 1-14-2 all-time in Reno, Weaver/Bates questionable"
+    },
+    {
+      "sport": "CFB",
+      "matchup": "SDSU @ CSU",
+      "pick": "Under 59.5",
+      "why": "fair 52.0% (devigged Pinnacle) vs 51.2% implied at -105 \u2014 Hard Rock hanging -105 on Under 59.5 while Pinnacle charges -117; SDSU offense at 23.3 PPG"
+    },
+    {
+      "sport": "CFB",
+      "matchup": "ISU @ ARIZ",
+      "pick": "ISU",
+      "why": "fair 24.3% (devigged Pinnacle) vs 23.5% implied at +325 \u2014 Hard Rock hanging +325 while Pinnacle is +282; ISU losses all vs ranked teams, beat Arizona 39-14 last year"
+    },
+    {
+      "sport": "NBA",
+      "matchup": "NOP @ DEN",
+      "pick": "NOP",
+      "why": "fair 19.3% (devigged Pinnacle) vs 19.0% implied at +425 \u2014 Bovada hanging +425 while Pinnacle's fair sits at 19.3%; Denver down Cam Johnson and thin at forward"
+    },
+    {
+      "sport": "NBA",
+      "matchup": "GSW @ PHX",
+      "pick": "GSW",
+      "why": "fair 23.5% (devigged Pinnacle) vs 23.3% implied at +330 \u2014 FanDuel hanging +330 vs the Pinnacle fair; thin price-disagreement edge, GSW depleted (Curry likely out)"
+    }
+  ],
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-10-23"
+  "generated_at": "2026-10-24"
 }
