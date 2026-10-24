@@ -1,17 +1,17 @@
 {
   "summary": {
-    "wins": 31,
+    "wins": 32,
     "losses": 24,
     "pushes": 1,
-    "record": "31-24-1",
-    "units": 4.21,
-    "plays_graded": 56,
+    "record": "32-24-1",
+    "units": 5.12,
+    "plays_graded": 57,
     "free": {
-      "wins": 30,
+      "wins": 31,
       "losses": 20,
       "pushes": 1,
-      "record": "30-20-1",
-      "units": 7.3
+      "record": "31-20-1",
+      "units": 8.21
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,16 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-10-23",
+      "sport": "CFB",
+      "game": "NCST @ STAN",
+      "pick": "Over 55.5",
+      "result": "W",
+      "score": "Stanford 31 - NC State 28 (59 total)",
+      "units": 0.91,
+      "tier": "free"
+    },
     {
       "date": "2026-10-21",
       "sport": "NBA",
