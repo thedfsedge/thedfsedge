@@ -1,17 +1,17 @@
 {
   "summary": {
-    "wins": 32,
-    "losses": 24,
+    "wins": 35,
+    "losses": 28,
     "pushes": 1,
-    "record": "32-24-1",
-    "units": 5.12,
-    "plays_graded": 57,
+    "record": "35-28-1",
+    "units": 3.85,
+    "plays_graded": 64,
     "free": {
-      "wins": 31,
-      "losses": 20,
+      "wins": 34,
+      "losses": 24,
       "pushes": 1,
-      "record": "31-20-1",
-      "units": 8.21
+      "record": "34-24-1",
+      "units": 6.94
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,76 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-10-24",
+      "sport": "CFB",
+      "game": "RICE @ FAU",
+      "pick": "FAU",
+      "result": "W",
+      "score": "FAU 51 - Rice 49",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-24",
+      "sport": "CFB",
+      "game": "RUTG @ NW",
+      "pick": "NW",
+      "result": "W",
+      "score": "Northwestern 42 - Rutgers 14",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-24",
+      "sport": "CFB",
+      "game": "SJSU @ NEV",
+      "pick": "NEV",
+      "result": "W",
+      "score": "Nevada 28 - San Jose State 13",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-24",
+      "sport": "CFB",
+      "game": "SDSU @ CSU",
+      "pick": "Under 59.5",
+      "result": "L",
+      "score": "Colorado State 56 - San Diego State 49 (105 total)",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-24",
+      "sport": "CFB",
+      "game": "ISU @ ARIZ",
+      "pick": "ISU",
+      "result": "L",
+      "score": "Arizona 39 - Iowa State 3",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-24",
+      "sport": "NBA",
+      "game": "NOP @ DEN",
+      "pick": "NOP",
+      "result": "L",
+      "score": "Denver 141 - New Orleans 135 (OT)",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-24",
+      "sport": "NBA",
+      "game": "GSW @ PHX",
+      "pick": "GSW",
+      "result": "L",
+      "score": "Phoenix 131 - Golden State 122",
+      "units": -1.0,
+      "tier": "free"
+    },
     {
       "date": "2026-10-23",
       "sport": "CFB",
