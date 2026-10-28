@@ -1,17 +1,17 @@
 {
   "summary": {
-    "wins": 35,
-    "losses": 28,
-    "pushes": 1,
-    "record": "35-28-1",
-    "units": 3.85,
-    "plays_graded": 64,
+    "wins": 37,
+    "losses": 30,
+    "pushes": 2,
+    "record": "37-30-2",
+    "units": 3.67,
+    "plays_graded": 69,
     "free": {
-      "wins": 34,
-      "losses": 24,
-      "pushes": 1,
-      "record": "34-24-1",
-      "units": 6.94
+      "wins": 36,
+      "losses": 26,
+      "pushes": 2,
+      "record": "36-26-2",
+      "units": 6.76
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,56 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-10-27",
+      "sport": "NBA",
+      "game": "POR @ LAL",
+      "pick": "LAL",
+      "result": "L",
+      "score": "POR 136, LAL 129",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-27",
+      "sport": "MLB",
+      "game": "MIL @ TBR",
+      "pick": "Under 7.0",
+      "result": "P",
+      "score": "TBR 4, MIL 3 (12 inn)",
+      "units": 0.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-26",
+      "sport": "NBA",
+      "game": "PHX @ OKC",
+      "pick": "OKC",
+      "result": "W",
+      "score": "OKC 125, PHX 114",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-26",
+      "sport": "NBA",
+      "game": "MEM @ UTA",
+      "pick": "MEM",
+      "result": "W",
+      "score": "MEM 110, UTA 105",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-25",
+      "sport": "NFL",
+      "game": "DEN @ ARI",
+      "pick": "ARI",
+      "result": "L",
+      "score": "Denver 30 - Arizona 16",
+      "units": -1.0,
+      "tier": "free"
+    },
     {
       "date": "2026-10-24",
       "sport": "CFB",
@@ -663,5 +713,5 @@
       "tier": "free"
     }
   ],
-  "generated_at": "2026-10-25"
+  "generated_at": "2026-10-28"
 }

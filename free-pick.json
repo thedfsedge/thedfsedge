@@ -1,17 +1,30 @@
 {
-  "date_label": "Sunday, October 25",
-  "board_title": "NFL Week 7 Board",
+  "date_label": "Wednesday, October 28",
+  "board_title": "Wednesday Board",
   "featured": {
-    "sport": "NFL",
-    "matchup": "DEN @ ARI",
-    "pick": "ARI",
-    "why": "fair 32.8% (devigged Pinnacle +191, 2.7% vig) vs 32.3% implied at +210 \u2014 BetRivers hanging +210 while Pinnacle is +191 and DraftKings/FanDuel are +190/+188, re-verified live"
+    "sport": "CFB",
+    "matchup": "JAXST @ NMSU",
+    "pick": "NMSU",
+    "why": "fair 41.9% (devigged Pinnacle +131, ~2.6% vig) vs 40.8% implied at +145 \u2014 ESPN BET hanging +145 while Pinnacle is +131, re-verified live"
   },
-  "also_on_board": [],
+  "also_on_board": [
+    {
+      "sport": "NBA",
+      "matchup": "LAL @ LAC",
+      "pick": "LAC",
+      "why": "fair 37.9% (devigged Pinnacle +154, ~2.6% vig) vs 37.3% implied at +168 \u2014 Courtside hanging +168 while Pinnacle is +154, re-verified live"
+    },
+    {
+      "sport": "NBA",
+      "matchup": "GSW @ MIN",
+      "pick": "MIN",
+      "why": "fair 61.1% (devigged Pinnacle -165, ~2.6% vig) vs 60.6% implied at -154 \u2014 FanDuel hanging -154 while Pinnacle is -165 after the Edwards knee-surgery news, re-verified live"
+    }
+  ],
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-10-25"
+  "generated_at": "2026-10-28"
 }
