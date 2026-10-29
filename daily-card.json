@@ -1,7 +1,7 @@
 {
-  "date_label": "Wednesday, October 28",
+  "date_label": "Thursday, October 29",
   "tagline": "We make a number for every game. We bet the ones where the market's wrong.",
-  "generated_at": "2026-10-28",
+  "generated_at": "2026-10-29",
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
@@ -9,76 +9,76 @@
   },
   "games": [
     {
-      "league": "MLB",
-      "market": "Brewers -155, total 6.5 (FanDuel: MIL -156, total 6.5)",
-      "matchup": "Milwaukee Brewers @ Tampa Bay Rays",
-      "our_fair": "Brewers 58.7% / Rays 41.3% (devigged Pinnacle -148/+136)",
-      "take": "World Series Game 5, and Milwaukee is one win from the franchise's first title after Tampa Bay's 4-3, 12-inning escape in Game 4 kept the series alive. The Brewers turn to ace Jacob Misiorowski (16-5, 1.80 ERA) on four days' rest \u2014 the clearest pitching edge of the series \u2014 while the Rays had not named a starter after emptying the pen in 12 innings Tuesday. Junior Caminero says he'll play on a bad left foot, and Cash promised he'd play 'on one leg.' No true edge at the current prices \u2014 the market has Milwaukee priced right \u2014 but the lean is the Brewers because the pitching matchup is the most lopsided of the series.",
-      "time": "7:00 PM CT",
-      "title": "World Series Game 5",
-      "tv": "FOX",
-      "venue": "Tropicana Field, St. Petersburg",
-      "verdict": "LEAN: MIL \u2014 no true edge, but the lean is Milwaukee because Misiorowski on four days' rest is the series' clearest pitching advantage."
-    },
-    {
-      "league": "NBA",
-      "market": "Lakers -4.5, total 228.5 (FanDuel)",
-      "matchup": "Los Angeles Lakers @ Los Angeles Clippers",
-      "our_fair": "Lakers 62.1% / Clippers 37.9% (devigged Pinnacle -172/+154)",
-      "take": "Round two of the LA rivalry, five days after the Lakers' 125-117 win in the first meeting. The Lakers are 3-1 but on the second night of a back-to-back after Tuesday's 136-129 home loss to Portland, despite 41 from Luka Doncic (144 points in four games). The Clippers are 1-2 and missing six rotation players \u2014 Beal, Ingram, Strus, Hachimura, Miller and Niederhauser. This is also a board play: Courtside is hanging the Clippers at +168 against a 37.9% devigged Pinnacle fair, +1.6% EV \u2014 a price-gap edge on a depleted side, not a vote of confidence in the Clippers' depth.",
-      "time": "9:40 PM CT",
-      "title": "Lakers @ Clippers",
-      "tv": "KTLA / League Pass",
-      "venue": "Intuit Dome, Inglewood",
-      "verdict": "LEAN: LAC +168 \u2014 a real edge, not just a lean: Courtside is hanging +168 against a 37.9% fair."
-    },
-    {
-      "league": "NBA",
-      "market": "Thunder -6.5, total 229.5 (FanDuel)",
-      "matchup": "Oklahoma City Thunder @ Dallas Mavericks",
-      "our_fair": "Thunder 66.9% / Mavericks 33.1% (devigged Pinnacle -213/+188)",
-      "take": "The unbeaten Thunder (4-0) keep winning shorthanded \u2014 Holmgren, Jalen Williams, Caruso and Wallace are all out, with Ajay Mitchell questionable after a career-high 30 against Phoenix. Dallas has its own questions: Irving is questionable with knee injury management, Marshall is ill, Martin has a thumb sprain, and Lively is out. No true edge at US prices \u2014 the only number beating fair was an exchange price \u2014 but the lean is the Thunder because 4-0 shorthanded beats a Mavericks side that can't say who's playing.",
-      "time": "8:40 PM CT",
-      "title": "Thunder @ Mavericks",
-      "tv": "ESPN",
-      "venue": "American Airlines Center, Dallas",
-      "verdict": "LEAN: OKC \u2014 no true edge, but the lean is Oklahoma City because the 4-0 record has already survived the injury list."
-    },
-    {
-      "league": "NBA",
-      "market": "Timberwolves -3.5, total 226.5 (FanDuel)",
-      "matchup": "Golden State Warriors @ Minnesota Timberwolves",
-      "our_fair": "Timberwolves 61.1% / Warriors 38.9% (devigged Pinnacle -165/+148)",
-      "take": "Minnesota's season changes tonight: Anthony Edwards, averaging 33.3 points through four games, is headed for arthroscopic knee surgery and could miss up to two months after his 47-point night in Monday's overtime loss to Cleveland. The Wolves lean on McDaniels (15.0 PPG), offseason addition LaMelo Ball (14.8 PPG, 6.3 APG) and Shannon off the bench. Golden State is 1-3 after its first win Monday over Denver behind Podziemski and rookie Yaxel Lendeborg. This is also a board play: FanDuel is hanging Minnesota at -154 against a 61.1% devigged Pinnacle fair, +0.8% EV \u2014 Pinnacle moved on the Edwards news and FanDuel hasn't caught up.",
-      "time": "7:10 PM CT",
-      "title": "Warriors @ Timberwolves",
-      "tv": "\u2014",
-      "venue": "Target Center, Minneapolis",
-      "verdict": "LEAN: MIN -154 \u2014 a real edge, not just a lean: FanDuel is hanging -154 against a 61.1% fair."
-    },
-    {
-      "league": "NBA",
-      "market": "Knicks -7.5, total 232.5 (FanDuel)",
-      "matchup": "New York Knicks @ Chicago Bulls",
-      "our_fair": "Knicks 70.4% / Bulls 29.6% (devigged Pinnacle -251/+219)",
-      "take": "A big road number for the Knicks, who are laying 7.5 in Chicago. The fair line says New York wins this one about seven times in ten, but the US prices have already caught up \u2014 the best Knicks price implies more than the fair, so there is no edge to bet, only a lean to state. The Bulls at +219 imply less than the fair too, so the least-bad side of the market is the favorite. No true edge here, but the lean is New York because the gap between price and fair is smallest on the Knicks' side.",
-      "time": "7:10 PM CT",
-      "title": "Knicks @ Bulls",
-      "tv": "\u2014",
-      "venue": "United Center, Chicago",
-      "verdict": "LEAN: NYK \u2014 no true edge, but the lean is New York because the price-vs-fair gap is smallest on the favorite's side."
+      "league": "NFL",
+      "market": "Packers -3.5, total 47 (Pinnacle)",
+      "matchup": "Carolina Panthers @ Green Bay Packers",
+      "our_fair": "Packers 64.5% / Panthers 35.5% (devigged Pinnacle -191/+171)",
+      "take": "Thursday Night Football at Lambeau, and both teams arrive held together with tape. Carolina is without both starting tackles, both starting cornerbacks (Horn and Jackson on IR), top pass rusher Jaelan Phillips and corner Akayleb Evans. Green Bay ruled out center Sean Rhyan, guard Travis Glover and linebacker Zaire Franklin, with Matthew Golden questionable. Bryce Young was a full practice participant after his knee designation; Jordan Love is off the report. No true edge at the current prices \u2014 the best Packers price is essentially the fair \u2014 but the lean is Green Bay because Carolina's secondary and both tackle spots are gone on a short week.",
+      "time": "7:15 PM CT",
+      "title": "Panthers @ Packers",
+      "tv": "Prime Video",
+      "venue": "Lambeau Field, Green Bay",
+      "verdict": "LEAN: GB \u2014 no true edge, but the lean is Green Bay because Carolina is missing both starting tackles and both starting cornerbacks."
     },
     {
       "league": "CFB",
-      "market": "Jacksonville State -3.5, total 49.5 (FanDuel)",
-      "matchup": "Jacksonville State Gamecocks @ New Mexico State Aggies",
-      "our_fair": "Gamecocks 58.1% / Aggies 41.9% (devigged Pinnacle -146/+131)",
-      "take": "Week 9 CUSA under the lights in Las Cruces. Jacksonville State is 5-2 and unbeaten in league play (3-0) on four straight wins, the latest a 27-24 win over FIU, with dual-threat QB Caden Creel (1,637 passing yards, 12 TDs, plus a team-high 500 rushing yards) driving the offense. New Mexico State is 3-4 and 2-1 in the league after a 30-24 win at Sam Houston, leaning on CUSA rushing leader James Jones (777 yards, 6.5 per carry, 178 last out) and a run defense allowing just 109.1 yards a game. This is also a board play: ESPN BET is hanging the Aggies at +145 against a 41.9% devigged Pinnacle fair, +2.6% EV \u2014 the home dog with the ground game is getting too many points in the price.",
-      "time": "7:00 PM CT",
-      "title": "Jacksonville State @ New Mexico State",
+      "market": "North Texas -14, total 78 (Pinnacle)",
+      "matchup": "Florida Atlantic Owls @ North Texas Mean Green",
+      "our_fair": "Mean Green 83.5% / Owls 16.5% (devigged Pinnacle -546/+436)",
+      "take": "The slate's shootout: a 78-point total at DATCU Stadium, with simulations projecting North Texas 48.7\u201333.8. FAU quarterback Caden Veltkamp is projected for a huge night through the air, but North Texas answers with Tayven Jackson plus a ground game (Jahiem White projected for 165.8 rushing yards) that keeps the Mean Green balanced. No true edge at the current prices \u2014 the best number on North Texas beats fair by only about 0.2% \u2014 but the lean is the Mean Green because the offense with two ways to score is the one laying the points at home.",
+      "time": "6:30 PM CT",
+      "title": "FAU @ North Texas",
+      "tv": "\u2014",
+      "venue": "DATCU Stadium, Denton",
+      "verdict": "LEAN: UNT \u2014 no true edge, but the lean is North Texas because the home offense can win through the air and on the ground."
+    },
+    {
+      "league": "CFB",
+      "market": "James Madison -19.5, total 51 (Pinnacle)",
+      "matchup": "Troy Trojans @ James Madison Dukes",
+      "our_fair": "Dukes 91.2% / Trojans 8.8% (devigged Pinnacle -1148/+802)",
+      "take": "A bounce-back spot for the Dukes at Bridgeforth after losing at App State as two-touchdown favorites. JMU's defense allows just 18.3 points per game and 110.1 rushing yards per game, and Troy's path \u2014 run the ball \u2014 runs straight into it; the Trojans score 22.9 per game and rank 124th in pass offense, so they can't throw their way out if the ground game stalls. No true edge at the current prices, but the lean is James Madison because Troy has nothing that bothers the one thing JMU does best.",
+      "time": "6:30 PM CT",
+      "title": "Troy @ James Madison",
       "tv": "ESPN2",
-      "venue": "Aggie Memorial Stadium, Las Cruces",
-      "verdict": "LEAN: NMSU +145 \u2014 a real edge, not just a lean: ESPN BET is hanging +145 against a 41.9% fair."
+      "venue": "Bridgeforth Stadium, Harrisonburg",
+      "verdict": "LEAN: JMU \u2014 no true edge, but the lean is James Madison because Troy's run-first offense meets a defense giving up 110 rushing yards a game."
+    },
+    {
+      "league": "NBA",
+      "market": "Hawks -1, total 237.5 (Pinnacle)",
+      "matchup": "Cleveland Cavaliers @ Atlanta Hawks",
+      "our_fair": "Hawks 51.2% / Cavaliers 48.8% (devigged Pinnacle -110/+100)",
+      "take": "A coin-flip game in Atlanta. The Hawks are 2-2, scoring 121 a night behind Jalen Johnson (21.5 points, 9.8 rebounds, 8.5 assists), but Houston just beat them twice by getting physical; Cleveland's jumbo frontcourt of Mobley, Allen and Watson is built for exactly that. Atlanta is without Mouhamed Gueye (foot) and Henri Veesaar (season, ACL). No true edge \u2014 the best Hawks price beats fair by only about 0.4% \u2014 but the lean is Atlanta because the market prices this as a pick'em and the home side has the ball-movement edge (31.5 assists a game).",
+      "time": "7:10 PM CT",
+      "title": "Cavaliers @ Hawks",
+      "tv": "\u2014",
+      "venue": "State Farm Arena, Atlanta",
+      "verdict": "LEAN: ATL \u2014 no true edge, but the lean is Atlanta because a coin-flip price undersells the home side's ball movement."
+    },
+    {
+      "league": "NBA",
+      "market": "Pelicans -6, total 236.5 (Pinnacle)",
+      "matchup": "Sacramento Kings @ New Orleans Pelicans",
+      "our_fair": "Pelicans 69.1% / Kings 30.9% (devigged Pinnacle -236/+207)",
+      "take": "One of these 0-4 teams gets its first win tonight. Sacramento is the more depleted side: Keegan Murray (ankle), Maxime Raynaud (knee), Dylan Cardwell (calf) and Ben Simmons (Achilles surgery) are all out, leaving no defender to match up with Zion Williamson and no rim protection behind him. New Orleans is on the second night of a back-to-back and Jordan Poole is questionable (ankle), which is why this is a thin edge and not a big one. This is also a board play: BetRivers is hanging New Orleans at -215 against a 69.1% devigged Pinnacle fair, +1.2% EV.",
+      "time": "7:10 PM CT",
+      "title": "Kings @ Pelicans",
+      "tv": "Gulf Coast Sports / NBC Sports California",
+      "venue": "Smoothie King Center, New Orleans",
+      "verdict": "LEAN: NOP -215 \u2014 a real edge, not just a lean: BetRivers is hanging -215 against a 69.1% fair."
+    },
+    {
+      "league": "NBA",
+      "market": "Trail Blazers -7.5, total 232 (Pinnacle)",
+      "matchup": "Memphis Grizzlies @ Portland Trail Blazers",
+      "our_fair": "Trail Blazers 72.3% / Grizzlies 27.7% (devigged Pinnacle -277/+240)",
+      "take": "The battle of the unbeatens: Memphis 4-0 against Portland 3-0 at Moda Center. It's Ja Morant's first game against his former team since Memphis moved on in the offseason, and Portland is blending him with a returning Damian Lillard under first-year coach Micah Nori \u2014 129.3 points a game at home on 51.1% shooting. Memphis has feasted on an easy schedule, but Portland's home offense is the sterner test. No true edge \u2014 the best Trail Blazers price beats fair by only about 0.6% \u2014 but the lean is Portland because the home scoring numbers are real and Memphis hasn't faced anything like this yet.",
+      "time": "9:10 PM CT",
+      "title": "Grizzlies @ Trail Blazers",
+      "tv": "\u2014",
+      "venue": "Moda Center, Portland",
+      "verdict": "LEAN: POR \u2014 no true edge, but the lean is Portland because 129 points a game at home is the best number on the slate."
     }
   ]
 }

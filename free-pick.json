@@ -1,30 +1,17 @@
 {
-  "date_label": "Wednesday, October 28",
-  "board_title": "Wednesday Board",
+  "date_label": "Thursday, October 29",
+  "board_title": "Thursday Board",
   "featured": {
-    "sport": "CFB",
-    "matchup": "JAXST @ NMSU",
-    "pick": "NMSU",
-    "why": "fair 41.9% (devigged Pinnacle +131, ~2.6% vig) vs 40.8% implied at +145 \u2014 ESPN BET hanging +145 while Pinnacle is +131, re-verified live"
+    "sport": "NBA",
+    "matchup": "SAC @ NOP",
+    "pick": "NOP",
+    "why": "fair 69.1% (devigged Pinnacle -236, ~2.8% vig) vs 68.3% implied at -215 \u2014 BetRivers hanging -215 while Pinnacle is -236, re-verified live; Kings without Keegan Murray and frontcourt depth, but both teams are 0-4 and New Orleans is on a back-to-back \u2014 the case is the number"
   },
-  "also_on_board": [
-    {
-      "sport": "NBA",
-      "matchup": "LAL @ LAC",
-      "pick": "LAC",
-      "why": "fair 37.9% (devigged Pinnacle +154, ~2.6% vig) vs 37.3% implied at +168 \u2014 Courtside hanging +168 while Pinnacle is +154, re-verified live"
-    },
-    {
-      "sport": "NBA",
-      "matchup": "GSW @ MIN",
-      "pick": "MIN",
-      "why": "fair 61.1% (devigged Pinnacle -165, ~2.6% vig) vs 60.6% implied at -154 \u2014 FanDuel hanging -154 while Pinnacle is -165 after the Edwards knee-surgery news, re-verified live"
-    }
-  ],
+  "also_on_board": [],
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-10-28"
+  "generated_at": "2026-10-29"
 }

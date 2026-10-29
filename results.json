@@ -1,17 +1,17 @@
 {
   "summary": {
     "wins": 37,
-    "losses": 30,
+    "losses": 33,
     "pushes": 2,
-    "record": "37-30-2",
-    "units": 3.67,
-    "plays_graded": 69,
+    "record": "37-33-2",
+    "units": 0.67,
+    "plays_graded": 72,
     "free": {
       "wins": 36,
-      "losses": 26,
+      "losses": 29,
       "pushes": 2,
-      "record": "36-26-2",
-      "units": 6.76
+      "record": "36-29-2",
+      "units": 3.76
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,36 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-10-28",
+      "sport": "CFB",
+      "game": "JAXST @ NMSU",
+      "pick": "NMSU",
+      "result": "L",
+      "score": "JAXST 24 - NMSU 0",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-28",
+      "sport": "NBA",
+      "game": "LAL @ LAC",
+      "pick": "LAC",
+      "result": "L",
+      "score": "LAL 103 - LAC 87",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-28",
+      "sport": "NBA",
+      "game": "GSW @ MIN",
+      "pick": "MIN",
+      "result": "L",
+      "score": "GSW 119 - MIN 114",
+      "units": -1.0,
+      "tier": "free"
+    },
     {
       "date": "2026-10-27",
       "sport": "NBA",
@@ -713,5 +743,5 @@
       "tier": "free"
     }
   ],
-  "generated_at": "2026-10-28"
+  "generated_at": "2026-10-29"
 }
