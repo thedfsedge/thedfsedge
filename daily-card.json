@@ -1,7 +1,7 @@
 {
-  "date_label": "Thursday, October 29",
+  "date_label": "Friday, October 30",
   "tagline": "We make a number for every game. We bet the ones where the market's wrong.",
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-10-30",
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
@@ -9,76 +9,88 @@
   },
   "games": [
     {
-      "league": "NFL",
-      "market": "Packers -3.5, total 47 (Pinnacle)",
-      "matchup": "Carolina Panthers @ Green Bay Packers",
-      "our_fair": "Packers 64.5% / Panthers 35.5% (devigged Pinnacle -191/+171)",
-      "take": "Thursday Night Football at Lambeau, and both teams arrive held together with tape. Carolina is without both starting tackles, both starting cornerbacks (Horn and Jackson on IR), top pass rusher Jaelan Phillips and corner Akayleb Evans. Green Bay ruled out center Sean Rhyan, guard Travis Glover and linebacker Zaire Franklin, with Matthew Golden questionable. Bryce Young was a full practice participant after his knee designation; Jordan Love is off the report. No true edge at the current prices \u2014 the best Packers price is essentially the fair \u2014 but the lean is Green Bay because Carolina's secondary and both tackle spots are gone on a short week.",
-      "time": "7:15 PM CT",
-      "title": "Panthers @ Packers",
-      "tv": "Prime Video",
-      "venue": "Lambeau Field, Green Bay",
-      "verdict": "LEAN: GB \u2014 no true edge, but the lean is Green Bay because Carolina is missing both starting tackles and both starting cornerbacks."
-    },
-    {
       "league": "CFB",
-      "market": "North Texas -14, total 78 (Pinnacle)",
-      "matchup": "Florida Atlantic Owls @ North Texas Mean Green",
-      "our_fair": "Mean Green 83.5% / Owls 16.5% (devigged Pinnacle -546/+436)",
-      "take": "The slate's shootout: a 78-point total at DATCU Stadium, with simulations projecting North Texas 48.7\u201333.8. FAU quarterback Caden Veltkamp is projected for a huge night through the air, but North Texas answers with Tayven Jackson plus a ground game (Jahiem White projected for 165.8 rushing yards) that keeps the Mean Green balanced. No true edge at the current prices \u2014 the best number on North Texas beats fair by only about 0.2% \u2014 but the lean is the Mean Green because the offense with two ways to score is the one laying the points at home.",
-      "time": "6:30 PM CT",
-      "title": "FAU @ North Texas",
-      "tv": "\u2014",
-      "venue": "DATCU Stadium, Denton",
-      "verdict": "LEAN: UNT \u2014 no true edge, but the lean is North Texas because the home offense can win through the air and on the ground."
-    },
-    {
-      "league": "CFB",
-      "market": "James Madison -19.5, total 51 (Pinnacle)",
-      "matchup": "Troy Trojans @ James Madison Dukes",
-      "our_fair": "Dukes 91.2% / Trojans 8.8% (devigged Pinnacle -1148/+802)",
-      "take": "A bounce-back spot for the Dukes at Bridgeforth after losing at App State as two-touchdown favorites. JMU's defense allows just 18.3 points per game and 110.1 rushing yards per game, and Troy's path \u2014 run the ball \u2014 runs straight into it; the Trojans score 22.9 per game and rank 124th in pass offense, so they can't throw their way out if the ground game stalls. No true edge at the current prices, but the lean is James Madison because Troy has nothing that bothers the one thing JMU does best.",
-      "time": "6:30 PM CT",
-      "title": "Troy @ James Madison",
+      "market": "Tulane -8.5, total 47.5",
+      "matchup": "Tulane Green Wave @ Charlotte 49ers",
+      "our_fair": "Tulane 75.4% / Charlotte 24.6% (devigged Pinnacle -326/+278)",
+      "take": "Tulane arrives reeling after six turnovers in a blowout home loss to UTSA, while Charlotte just snapped a 16-game losing streak against FBS competition with a stunner at Temple behind Conner Harrell's four touchdowns. The history still leans one way \u2014 Tulane has outscored Charlotte 61-3 across the last two meetings \u2014 and the market has already cut this number from around -13.5 toward -8.5. No true edge at the current prices: the best Tulane number is a touch worse than fair, but the lean is Tulane because the Green Wave's run game and defense are the steadier units against a Charlotte offense that just played its best game of the season.",
+      "time": "6:00 PM CT",
+      "title": "Tulane @ Charlotte",
       "tv": "ESPN2",
-      "venue": "Bridgeforth Stadium, Harrisonburg",
-      "verdict": "LEAN: JMU \u2014 no true edge, but the lean is James Madison because Troy's run-first offense meets a defense giving up 110 rushing yards a game."
+      "venue": "Jerry Richardson Stadium, Charlotte",
+      "verdict": "LEAN: Tulane \u2014 no true edge, but the lean is Tulane because the run game and defense are steadier than a Charlotte side coming off one big night."
+    },
+    {
+      "league": "CFB",
+      "market": "Baylor -2, total 48.5",
+      "matchup": "Baylor Bears @ UCF Knights",
+      "our_fair": "Baylor 53.4% / UCF 46.6% (devigged Pinnacle -120/+109)",
+      "take": "The Space Game, and both teams arrive 4-3 with very different weeks behind them: UCF is six days removed from a double-overtime win over No. 2 BYU, while Baylor is playing its first game since Dave Aranda's dismissal, with defensive coordinator Joe Klanderman as interim head coach. UCF leans on Keyone Jenkins and a heavy inside-zone run game; Baylor's DJ Lagway finally looked comfortable running the ball at Kansas. No true edge at the current prices \u2014 the best number on either side is still worse than fair \u2014 but the lean is UCF because the home side has the steadier situation, the fresher big win, and a run game built for a Friday night in the Bounce House.",
+      "time": "6:30 PM CT",
+      "title": "Baylor @ UCF",
+      "tv": "ESPN",
+      "venue": "Acrisure Bounce House, Orlando",
+      "verdict": "LEAN: UCF \u2014 no true edge, but the lean is UCF because the home side's situation is steadier than an interim-coach Baylor team on its second straight loss."
+    },
+    {
+      "league": "CFB",
+      "market": "Kent State -7.5, total 46.5",
+      "matchup": "Kent State Golden Flashes @ Sacramento State Hornets",
+      "our_fair": "Kent State 74.2% / Sacramento State 25.8% (devigged Pinnacle -305/+262)",
+      "take": "This one is on the board, and the edge is on the spread, not the moneyline: Sacramento State +7.5 at even money beats a 51.4% devigged Pinnacle fair for +2.9% EV, while the rest of the market hangs -108 to -118 on the same number. Kent State (3-5) needs wins to stay alive for bowl eligibility, but the Flashes travel 2,400 miles for a 7:30 PM PT kick \u2014 their third road game in four weeks \u2014 and the line has already been cut from around -11 to -7.5. The lean is Sacramento State plus the points because the number moved toward the home dog and the travel spot is real.",
+      "time": "9:30 PM CT",
+      "title": "Kent State @ Sacramento State",
+      "tv": "ESPN2",
+      "venue": "Hornet Stadium, Sacramento",
+      "verdict": "LEAN: Sacramento State +7.5 \u2014 a real edge on the spread, because the line has been cut from around -11 and Kent State is on a cross-country late kick."
     },
     {
       "league": "NBA",
-      "market": "Hawks -1, total 237.5 (Pinnacle)",
-      "matchup": "Cleveland Cavaliers @ Atlanta Hawks",
-      "our_fair": "Hawks 51.2% / Cavaliers 48.8% (devigged Pinnacle -110/+100)",
-      "take": "A coin-flip game in Atlanta. The Hawks are 2-2, scoring 121 a night behind Jalen Johnson (21.5 points, 9.8 rebounds, 8.5 assists), but Houston just beat them twice by getting physical; Cleveland's jumbo frontcourt of Mobley, Allen and Watson is built for exactly that. Atlanta is without Mouhamed Gueye (foot) and Henri Veesaar (season, ACL). No true edge \u2014 the best Hawks price beats fair by only about 0.4% \u2014 but the lean is Atlanta because the market prices this as a pick'em and the home side has the ball-movement edge (31.5 assists a game).",
+      "market": "Wizards -1, total 219.5",
+      "matchup": "Charlotte Hornets @ Washington Wizards",
+      "our_fair": "Hornets 49.8% / Wizards 50.2% (devigged Pinnacle -104/-106)",
+      "take": "An NBA Cup rematch four days after Charlotte's 110-103 win in the first meeting. This one is on the board: Charlotte +104 beats a 49.8% devigged Pinnacle fair for +1.5% EV while the rest of the market sits at -102 to +102. The honest counterweight is real \u2014 Charlotte is without Coby White, Kon Knueppel and Grant Williams, Dennis Schroder is questionable, and Washington gets No. 1 pick AJ Dybantsa back for his home debut. The lean is Charlotte anyway because the price, not the matchup, is the edge: Pinnacle says this is a coin flip, and one book is still paying plus money.",
+      "time": "6:10 PM CT",
+      "title": "Hornets @ Wizards",
+      "tv": "NBA League Pass",
+      "venue": "Capital One Arena, Washington",
+      "verdict": "LEAN: Charlotte +104 \u2014 a real edge, because Pinnacle calls this a coin flip and one book is still paying plus money."
+    },
+    {
+      "league": "NBA",
+      "market": "Pistons -8.5, total 221.5",
+      "matchup": "Detroit Pistons @ Brooklyn Nets",
+      "our_fair": "Pistons 74.5% / Nets 25.5% (devigged Pinnacle -311/+266)",
+      "take": "NBA Cup group play: 4-1 Detroit at 0-4 Brooklyn. The Pistons are doing this without Jalen Duren (hamstring, out at least two weeks), with Paul Reed stepping in at center, while Brooklyn is still looking for its first win behind one of the league's leakiest defenses. Detroit's moneyline is overpriced everywhere \u2014 the best number is -317 against a 74.5% fair \u2014 while Brooklyn +290 is essentially right on the fair number. No true edge either way, but the lean is Brooklyn plus the points on price: the dog's number is the honest one, and Detroit is on its fourth game in six nights.",
+      "time": "6:40 PM CT",
+      "title": "Pistons @ Nets",
+      "tv": "YES Network",
+      "venue": "Barclays Center, Brooklyn",
+      "verdict": "LEAN: Brooklyn \u2014 no true edge, but the lean is Brooklyn because +290 is essentially the fair number while Detroit's price is overcooked."
+    },
+    {
+      "league": "NBA",
+      "market": "Rockets -6.5, total 224.5",
+      "matchup": "Houston Rockets @ Dallas Mavericks",
+      "our_fair": "Rockets 68.6% / Mavericks 31.4% (devigged Pinnacle -233/+200)",
+      "take": "Houston is the better team and the market knows it \u2014 the only question is whether the price pays you for it. The best US number on Houston is -215, worth about +0.5% against the 68.6% devigged Pinnacle fair: close to the bar, not over it. Dallas at +200 is worse than fair. No true edge at a US book, but the lean is Houston because the Rockets are the right side of a fair number that still gives them nearly seven chances in ten, and the Dallas price offers nothing back.",
       "time": "7:10 PM CT",
-      "title": "Cavaliers @ Hawks",
-      "tv": "\u2014",
-      "venue": "State Farm Arena, Atlanta",
-      "verdict": "LEAN: ATL \u2014 no true edge, but the lean is Atlanta because a coin-flip price undersells the home side's ball movement."
+      "title": "Rockets @ Mavericks",
+      "tv": "NBA League Pass",
+      "venue": "American Airlines Center, Dallas",
+      "verdict": "LEAN: Houston \u2014 no true edge at a US book, but the lean is Houston because the fair number still gives the Rockets nearly seven chances in ten."
     },
     {
       "league": "NBA",
-      "market": "Pelicans -6, total 236.5 (Pinnacle)",
-      "matchup": "Sacramento Kings @ New Orleans Pelicans",
-      "our_fair": "Pelicans 69.1% / Kings 30.9% (devigged Pinnacle -236/+207)",
-      "take": "One of these 0-4 teams gets its first win tonight. Sacramento is the more depleted side: Keegan Murray (ankle), Maxime Raynaud (knee), Dylan Cardwell (calf) and Ben Simmons (Achilles surgery) are all out, leaving no defender to match up with Zion Williamson and no rim protection behind him. New Orleans is on the second night of a back-to-back and Jordan Poole is questionable (ankle), which is why this is a thin edge and not a big one. This is also a board play: BetRivers is hanging New Orleans at -215 against a 69.1% devigged Pinnacle fair, +1.2% EV.",
-      "time": "7:10 PM CT",
-      "title": "Kings @ Pelicans",
-      "tv": "Gulf Coast Sports / NBC Sports California",
-      "venue": "Smoothie King Center, New Orleans",
-      "verdict": "LEAN: NOP -215 \u2014 a real edge, not just a lean: BetRivers is hanging -215 against a 69.1% fair."
-    },
-    {
-      "league": "NBA",
-      "market": "Trail Blazers -7.5, total 232 (Pinnacle)",
-      "matchup": "Memphis Grizzlies @ Portland Trail Blazers",
-      "our_fair": "Trail Blazers 72.3% / Grizzlies 27.7% (devigged Pinnacle -277/+240)",
-      "take": "The battle of the unbeatens: Memphis 4-0 against Portland 3-0 at Moda Center. It's Ja Morant's first game against his former team since Memphis moved on in the offseason, and Portland is blending him with a returning Damian Lillard under first-year coach Micah Nori \u2014 129.3 points a game at home on 51.1% shooting. Memphis has feasted on an easy schedule, but Portland's home offense is the sterner test. No true edge \u2014 the best Trail Blazers price beats fair by only about 0.6% \u2014 but the lean is Portland because the home scoring numbers are real and Memphis hasn't faced anything like this yet.",
+      "market": "Lakers -3, total 234.5",
+      "matchup": "Los Angeles Lakers @ Golden State Warriors",
+      "our_fair": "Lakers 57.2% / Warriors 42.8% (devigged Pinnacle -140/+127)",
+      "take": "The nightcap, and a good example of why the lean follows the price and not the jersey. The Lakers are the fair favorite at 57.2%, but the best Lakers number is -144 \u2014 worse than fair \u2014 while Golden State +127 is the closer of the two prices to its 42.8% fair share. No true edge on either side. The lean is Golden State as a home dog because its price is the honest one; laying -144 on a road favorite the market already prices at -140 is paying full freight.",
       "time": "9:10 PM CT",
-      "title": "Grizzlies @ Trail Blazers",
-      "tv": "\u2014",
-      "venue": "Moda Center, Portland",
-      "verdict": "LEAN: POR \u2014 no true edge, but the lean is Portland because 129 points a game at home is the best number on the slate."
+      "title": "Lakers @ Warriors",
+      "tv": "NBA League Pass",
+      "venue": "Chase Center, San Francisco",
+      "verdict": "LEAN: Golden State \u2014 no true edge, but the lean is Golden State because +127 is closer to the fair number than laying -144 on the Lakers."
     }
   ]
 }

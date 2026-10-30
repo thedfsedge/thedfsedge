@@ -1,17 +1,17 @@
 {
   "summary": {
-    "wins": 37,
+    "wins": 38,
     "losses": 33,
     "pushes": 2,
-    "record": "37-33-2",
-    "units": 0.67,
-    "plays_graded": 72,
+    "record": "38-33-2",
+    "units": 1.58,
+    "plays_graded": 73,
     "free": {
-      "wins": 36,
+      "wins": 37,
       "losses": 29,
       "pushes": 2,
-      "record": "36-29-2",
-      "units": 3.76
+      "record": "37-29-2",
+      "units": 4.67
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,16 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-10-29",
+      "sport": "NBA",
+      "game": "SAC @ NOP",
+      "pick": "NOP",
+      "result": "W",
+      "score": "NOP 132 - SAC 120",
+      "units": 0.91,
+      "tier": "free"
+    },
     {
       "date": "2026-10-28",
       "sport": "CFB",
@@ -743,5 +753,5 @@
       "tier": "free"
     }
   ],
-  "generated_at": "2026-10-29"
+  "generated_at": "2026-10-30"
 }

@@ -1,17 +1,30 @@
 {
-  "date_label": "Thursday, October 29",
-  "board_title": "Thursday Board",
+  "date_label": "Friday, October 30",
+  "board_title": "Friday Board",
   "featured": {
     "sport": "NBA",
-    "matchup": "SAC @ NOP",
-    "pick": "NOP",
-    "why": "fair 69.1% (devigged Pinnacle -236, ~2.8% vig) vs 68.3% implied at -215 \u2014 BetRivers hanging -215 while Pinnacle is -236, re-verified live; Kings without Keegan Murray and frontcourt depth, but both teams are 0-4 and New Orleans is on a back-to-back \u2014 the case is the number"
+    "matchup": "CHA @ WAS",
+    "pick": "CHA",
+    "why": "fair 49.8% (devigged Pinnacle -104, ~2.0% vig) vs 49.0% implied at +104 \u2014 BetRivers hanging +104 while Pinnacle is -104 and most of the market is -102 to +102, re-verified live; Hornets shorthanded (White, Knueppel, Grant Williams out) and Wizards get Dybantsa back, but Charlotte beat Washington 110-103 on Monday \u2014 the case is the number"
   },
-  "also_on_board": [],
+  "also_on_board": [
+    {
+      "sport": "CFB",
+      "matchup": "KENT @ SAC",
+      "pick": "SAC +7.5",
+      "why": "fair 51.4% (devigged Pinnacle -112 on +7.5, ~2.8% vig) vs 50.0% implied at +100 \u2014 Hard Rock hanging even money while Pinnacle is -112 and the rest of the market is -108 to -118, re-verified live; Sac State 1-7 but Kent State travels 2,400 miles for a late PT kick and the line has been cut from around -11"
+    },
+    {
+      "sport": "NBA",
+      "matchup": "DET @ BKN",
+      "pick": "Duncan Robinson Under 2.5 Rebounds",
+      "why": "fair 55.7% (devigged FanDuel -144 on Under 2.5) vs 54.5% implied at -120 \u2014 BetMGM hanging -120 while FanDuel is -144, re-verified live; Robinson starts at guard for Detroit in a perimeter, three-point role at winless Brooklyn"
+    }
+  ],
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-10-29"
+  "generated_at": "2026-10-30"
 }
