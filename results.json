@@ -1,17 +1,17 @@
 {
   "summary": {
-    "wins": 38,
-    "losses": 33,
+    "wins": 43,
+    "losses": 38,
     "pushes": 2,
-    "record": "38-33-2",
-    "units": 1.58,
-    "plays_graded": 73,
+    "record": "43-38-2",
+    "units": 1.13,
+    "plays_graded": 83,
     "free": {
-      "wins": 37,
-      "losses": 29,
+      "wins": 42,
+      "losses": 34,
       "pushes": 2,
-      "record": "37-29-2",
-      "units": 4.67
+      "record": "42-34-2",
+      "units": 4.22
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,106 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-10-31",
+      "sport": "CFB",
+      "game": "ARIZ @ TTU",
+      "pick": "TTU",
+      "result": "W",
+      "score": "TTU 34 - ARIZ 26",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-31",
+      "sport": "CFB",
+      "game": "CCU @ GSU",
+      "pick": "GSU",
+      "result": "L",
+      "score": "CCU 31 - GSU 20",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-31",
+      "sport": "CFB",
+      "game": "KSU @ COLO",
+      "pick": "COLO",
+      "result": "W",
+      "score": "COLO 27 - KSU 24 (OT)",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-31",
+      "sport": "CFB",
+      "game": "TEM @ ECU",
+      "pick": "ECU",
+      "result": "W",
+      "score": "ECU 17 - TEM 9",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-31",
+      "sport": "CFB",
+      "game": "USM @ ULM",
+      "pick": "USM",
+      "result": "W",
+      "score": "USM 35 - ULM 21",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-31",
+      "sport": "CFB",
+      "game": "PUR @ PSU",
+      "pick": "PUR",
+      "result": "L",
+      "score": "PSU 31 - PUR 17",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-31",
+      "sport": "CFB",
+      "game": "GT @ PITT",
+      "pick": "GT",
+      "result": "L",
+      "score": "PITT 34 - GT 11",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-30",
+      "sport": "NBA",
+      "game": "CHA @ WAS",
+      "pick": "CHA",
+      "result": "L",
+      "score": "WAS 95 - CHA 79",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-30",
+      "sport": "CFB",
+      "game": "KENT @ SAC",
+      "pick": "SAC +7.5",
+      "result": "W",
+      "score": "SAC 31 - KENT 10",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-10-30",
+      "sport": "NBA",
+      "game": "DET @ BKN",
+      "pick": "Duncan Robinson Under 2.5 Rebounds",
+      "result": "L",
+      "score": "DET 110 - BKN 94 (Robinson 4 REB)",
+      "units": -1.0,
+      "tier": "free"
+    },
     {
       "date": "2026-10-29",
       "sport": "NBA",
@@ -753,5 +853,5 @@
       "tier": "free"
     }
   ],
-  "generated_at": "2026-10-30"
+  "generated_at": "2026-11-01"
 }

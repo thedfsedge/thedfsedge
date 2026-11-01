@@ -1,24 +1,42 @@
 {
-  "date_label": "Friday, October 30",
-  "board_title": "Friday Board",
+  "date_label": "Sunday, November 1",
+  "board_title": "NFL Week 8 Board",
   "featured": {
-    "sport": "NBA",
-    "matchup": "CHA @ WAS",
-    "pick": "CHA",
-    "why": "fair 49.8% (devigged Pinnacle -104, ~2.0% vig) vs 49.0% implied at +104 \u2014 BetRivers hanging +104 while Pinnacle is -104 and most of the market is -102 to +102, re-verified live; Hornets shorthanded (White, Knueppel, Grant Williams out) and Wizards get Dybantsa back, but Charlotte beat Washington 110-103 on Monday \u2014 the case is the number"
+    "sport": "NFL",
+    "matchup": "BAL @ BUF",
+    "pick": "BUF",
+    "why": "fair 62.2% (devigged Pinnacle -173) vs 61.4% implied at -159 \u2014 Courtside hangs -159 while Pinnacle is -173 and DraftKings is -162; Bills 5-1 off the bye, Lamar Jackson returns for Baltimore after a three-game absence and Dalton Kincaid is questionable but expected to play \u2014 the case is the number"
   },
   "also_on_board": [
     {
-      "sport": "CFB",
-      "matchup": "KENT @ SAC",
-      "pick": "SAC +7.5",
-      "why": "fair 51.4% (devigged Pinnacle -112 on +7.5, ~2.8% vig) vs 50.0% implied at +100 \u2014 Hard Rock hanging even money while Pinnacle is -112 and the rest of the market is -108 to -118, re-verified live; Sac State 1-7 but Kent State travels 2,400 miles for a late PT kick and the line has been cut from around -11"
+      "sport": "NFL",
+      "matchup": "TEN @ CIN",
+      "pick": "CIN",
+      "why": "fair 88.5% (devigged Pinnacle) vs 87.0% implied at -670 \u2014 BetRivers hangs -670 while DraftKings and FanDuel are -850 and most of the market is -800; Tennessee is 1-6, without leading receiver Carnell Tate (shoulder) and Tyjae Spears, and just traded Jeffery Simmons \u2014 the case is the number, and the price is steep"
     },
     {
-      "sport": "NBA",
-      "matchup": "DET @ BKN",
-      "pick": "Duncan Robinson Under 2.5 Rebounds",
-      "why": "fair 55.7% (devigged FanDuel -144 on Under 2.5) vs 54.5% implied at -120 \u2014 BetMGM hanging -120 while FanDuel is -144, re-verified live; Robinson starts at guard for Detroit in a perimeter, three-point role at winless Brooklyn"
+      "sport": "NFL",
+      "matchup": "CLE @ PIT",
+      "pick": "PIT",
+      "why": "fair 65.3% (devigged Pinnacle -198) vs 64.4% implied at -181 \u2014 Courtside hangs -181 while Pinnacle is -198 and DraftKings is -185; both teams are 5-2 with first place in the AFC North on the line, Pittsburgh down two cornerbacks and Cleveland's Tytus Howard cleared concussion protocol \u2014 the case is the number"
+    },
+    {
+      "sport": "NFL",
+      "matchup": "MIN @ DET",
+      "pick": "DET",
+      "why": "fair 63.4% (devigged Pinnacle -182) vs 62.4% implied at -166 \u2014 Courtside hangs -166 while Pinnacle is -182 and DraftKings is -170; Goff is 14 TDs to 0 INTs with Gibbs and St. Brown off the report, but Minnesota arrives 6-0 unbeaten and Detroit is without safety Kerby Joseph \u2014 the case is the number"
+    },
+    {
+      "sport": "NFL",
+      "matchup": "LAC @ LAR",
+      "pick": "LAR",
+      "why": "fair 73.7% (devigged Pinnacle -298) vs 72.5% implied at -263 \u2014 Courtside hangs -263 while Pinnacle is -298 and DraftKings is -270; the Chargers are 0-6 off their bye with Derwin James on IR, the Rams are 3-4 at home in SoFi \u2014 the case is the number"
+    },
+    {
+      "sport": "NFL",
+      "matchup": "IND @ JAX",
+      "pick": "Trevor Lawrence Over 1.5 passing TDs",
+      "why": "fair 66.5% (devigged FanDuel Over -225 / Under +168) vs 65.0% implied at -186 \u2014 BetRivers hangs -186 while FanDuel charges -225 and DraftKings -195; Jacksonville is a 10-point favorite at home \u2014 the case is the number"
     }
   ],
   "links": {
@@ -26,5 +44,5 @@
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-10-30"
+  "generated_at": "2026-11-01"
 }
