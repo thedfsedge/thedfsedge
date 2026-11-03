@@ -1,30 +1,14 @@
 {
-  "date_label": "Monday, November 2",
-  "board_title": "Monday Board",
-  "featured": {
-    "sport": "NBA",
-    "matchup": "BKN @ NYK",
-    "pick": "NYK",
-    "why": "fair 90.9% (devigged Pinnacle) vs 90.0% implied at -900 \u2014 FanDuel hangs -900 while DraftKings is -980 and BetRivers is -910; the Nets are 1-5 and without Egor Demin, the Knicks are without Jose Alvarado (ankle) at Madison Square Garden \u2014 the case is the number, and the price is steep"
-  },
-  "also_on_board": [
-    {
-      "sport": "NBA",
-      "matchup": "WAS @ ORL",
-      "pick": "ORL -2.5",
-      "why": "fair 52.3% (devigged Pinnacle) vs 51.5% implied at -106 \u2014 FanDuel hangs -106 while DraftKings is -113 and BetRivers is -110; Washington travels without Jamir Watkins, Justin Champagnie and Tristan Vukcevic, with Alex Sarr day-to-day (knee) \u2014 the case is the number"
-    },
-    {
-      "sport": "NBA",
-      "matchup": "NOP @ MEM",
-      "pick": "MEM",
-      "why": "fair 64.7% (devigged Pinnacle) vs 64.0% implied at -178 \u2014 FanDuel hangs -178 while DraftKings is -196 and BetRivers is -215; New Orleans is without Jordan Poole (ankle) and Yves Missi (knee), with Trey Murphy III day-to-day, while Memphis is without Jaren Jackson Jr. (MCL) \u2014 the case is the number"
-    }
-  ],
+  "date_label": "Tuesday, November 3",
+  "board_title": "Tuesday Board",
+  "featured": null,
+  "also_on_board": [],
+  "thin_slate": true,
+  "note": "No plays cleared the +EV bar today.",
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-11-02"
+  "generated_at": "2026-11-03"
 }
