@@ -1,42 +1,24 @@
 {
-  "date_label": "Sunday, November 1",
-  "board_title": "NFL Week 8 Board",
+  "date_label": "Monday, November 2",
+  "board_title": "Monday Board",
   "featured": {
-    "sport": "NFL",
-    "matchup": "BAL @ BUF",
-    "pick": "BUF",
-    "why": "fair 62.2% (devigged Pinnacle -173) vs 61.4% implied at -159 \u2014 Courtside hangs -159 while Pinnacle is -173 and DraftKings is -162; Bills 5-1 off the bye, Lamar Jackson returns for Baltimore after a three-game absence and Dalton Kincaid is questionable but expected to play \u2014 the case is the number"
+    "sport": "NBA",
+    "matchup": "BKN @ NYK",
+    "pick": "NYK",
+    "why": "fair 90.9% (devigged Pinnacle) vs 90.0% implied at -900 \u2014 FanDuel hangs -900 while DraftKings is -980 and BetRivers is -910; the Nets are 1-5 and without Egor Demin, the Knicks are without Jose Alvarado (ankle) at Madison Square Garden \u2014 the case is the number, and the price is steep"
   },
   "also_on_board": [
     {
-      "sport": "NFL",
-      "matchup": "TEN @ CIN",
-      "pick": "CIN",
-      "why": "fair 88.5% (devigged Pinnacle) vs 87.0% implied at -670 \u2014 BetRivers hangs -670 while DraftKings and FanDuel are -850 and most of the market is -800; Tennessee is 1-6, without leading receiver Carnell Tate (shoulder) and Tyjae Spears, and just traded Jeffery Simmons \u2014 the case is the number, and the price is steep"
+      "sport": "NBA",
+      "matchup": "WAS @ ORL",
+      "pick": "ORL -2.5",
+      "why": "fair 52.3% (devigged Pinnacle) vs 51.5% implied at -106 \u2014 FanDuel hangs -106 while DraftKings is -113 and BetRivers is -110; Washington travels without Jamir Watkins, Justin Champagnie and Tristan Vukcevic, with Alex Sarr day-to-day (knee) \u2014 the case is the number"
     },
     {
-      "sport": "NFL",
-      "matchup": "CLE @ PIT",
-      "pick": "PIT",
-      "why": "fair 65.3% (devigged Pinnacle -198) vs 64.4% implied at -181 \u2014 Courtside hangs -181 while Pinnacle is -198 and DraftKings is -185; both teams are 5-2 with first place in the AFC North on the line, Pittsburgh down two cornerbacks and Cleveland's Tytus Howard cleared concussion protocol \u2014 the case is the number"
-    },
-    {
-      "sport": "NFL",
-      "matchup": "MIN @ DET",
-      "pick": "DET",
-      "why": "fair 63.4% (devigged Pinnacle -182) vs 62.4% implied at -166 \u2014 Courtside hangs -166 while Pinnacle is -182 and DraftKings is -170; Goff is 14 TDs to 0 INTs with Gibbs and St. Brown off the report, but Minnesota arrives 6-0 unbeaten and Detroit is without safety Kerby Joseph \u2014 the case is the number"
-    },
-    {
-      "sport": "NFL",
-      "matchup": "LAC @ LAR",
-      "pick": "LAR",
-      "why": "fair 73.7% (devigged Pinnacle -298) vs 72.5% implied at -263 \u2014 Courtside hangs -263 while Pinnacle is -298 and DraftKings is -270; the Chargers are 0-6 off their bye with Derwin James on IR, the Rams are 3-4 at home in SoFi \u2014 the case is the number"
-    },
-    {
-      "sport": "NFL",
-      "matchup": "IND @ JAX",
-      "pick": "Trevor Lawrence Over 1.5 passing TDs",
-      "why": "fair 66.5% (devigged FanDuel Over -225 / Under +168) vs 65.0% implied at -186 \u2014 BetRivers hangs -186 while FanDuel charges -225 and DraftKings -195; Jacksonville is a 10-point favorite at home \u2014 the case is the number"
+      "sport": "NBA",
+      "matchup": "NOP @ MEM",
+      "pick": "MEM",
+      "why": "fair 64.7% (devigged Pinnacle) vs 64.0% implied at -178 \u2014 FanDuel hangs -178 while DraftKings is -196 and BetRivers is -215; New Orleans is without Jordan Poole (ankle) and Yves Missi (knee), with Trey Murphy III day-to-day, while Memphis is without Jaren Jackson Jr. (MCL) \u2014 the case is the number"
     }
   ],
   "links": {
@@ -44,5 +26,5 @@
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-11-01"
+  "generated_at": "2026-11-02"
 }

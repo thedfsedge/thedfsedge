@@ -1,17 +1,17 @@
 {
   "summary": {
-    "wins": 43,
-    "losses": 38,
+    "wins": 50,
+    "losses": 40,
     "pushes": 2,
-    "record": "43-38-2",
-    "units": 1.13,
-    "plays_graded": 83,
+    "record": "50-40-2",
+    "units": 5.5,
+    "plays_graded": 92,
     "free": {
-      "wins": 42,
-      "losses": 34,
+      "wins": 49,
+      "losses": 36,
       "pushes": 2,
-      "record": "42-34-2",
-      "units": 4.22
+      "record": "49-36-2",
+      "units": 8.59
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,96 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-11-02",
+      "sport": "NBA",
+      "game": "BKN @ NYK",
+      "pick": "NYK",
+      "result": "W",
+      "score": "NYK 103 - BKN 90",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-02",
+      "sport": "NBA",
+      "game": "WAS @ ORL",
+      "pick": "ORL -2.5",
+      "result": "L",
+      "score": "WAS 103 - ORL 94",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-02",
+      "sport": "NBA",
+      "game": "NOP @ MEM",
+      "pick": "MEM",
+      "result": "L",
+      "score": "NOP 135 - MEM 134 (OT)",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-01",
+      "sport": "NFL",
+      "game": "BAL @ BUF",
+      "pick": "BUF",
+      "result": "W",
+      "score": "BUF 36 - BAL 10",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-01",
+      "sport": "NFL",
+      "game": "TEN @ CIN",
+      "pick": "CIN",
+      "result": "W",
+      "score": "CIN 43 - TEN 36 (OT)",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-01",
+      "sport": "NFL",
+      "game": "CLE @ PIT",
+      "pick": "PIT",
+      "result": "W",
+      "score": "PIT 27 - CLE 6",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-01",
+      "sport": "NFL",
+      "game": "MIN @ DET",
+      "pick": "DET",
+      "result": "W",
+      "score": "DET 19 - MIN 15",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-01",
+      "sport": "NFL",
+      "game": "LAC @ LAR",
+      "pick": "LAR",
+      "result": "W",
+      "score": "LAR 24 - LAC 9",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-01",
+      "sport": "NFL",
+      "game": "IND @ JAX",
+      "pick": "Trevor Lawrence Over 1.5 passing TDs",
+      "result": "W",
+      "score": "JAX 42 - IND 7 (Lawrence 3 passing TDs)",
+      "units": 0.91,
+      "tier": "free"
+    },
     {
       "date": "2026-10-31",
       "sport": "CFB",
@@ -853,5 +943,5 @@
       "tier": "free"
     }
   ],
-  "generated_at": "2026-11-01"
+  "generated_at": "2026-11-02"
 }
