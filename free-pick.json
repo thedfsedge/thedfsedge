@@ -1,14 +1,17 @@
 {
-  "date_label": "Tuesday, November 3",
-  "board_title": "Tuesday Board",
-  "featured": null,
+  "date_label": "Thursday, November 5",
+  "board_title": "Thursday Board",
+  "featured": {
+    "sport": "CFB",
+    "matchup": "JMU @ USM",
+    "pick": "JMU",
+    "why": "fair 84.0% (devigged Pinnacle) vs 83.3% implied at -500 \u2014 FanDuel hangs -500 while Pinnacle is -568 and DraftKings is -575; JMU runs for 202.0 yds/game against a Southern Miss run defense allowing 223.4 yds/game (136th of 138 FBS). Clear skies, 65\u00b0F in Hattiesburg \u2014 no weather factor. Thin edge, labeled honestly."
+  },
   "also_on_board": [],
-  "thin_slate": true,
-  "note": "No plays cleared the +EV bar today.",
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-11-03"
+  "generated_at": "2026-11-05"
 }

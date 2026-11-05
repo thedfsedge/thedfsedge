@@ -1,17 +1,17 @@
 {
   "summary": {
-    "wins": 50,
-    "losses": 40,
+    "wins": 52,
+    "losses": 42,
     "pushes": 2,
-    "record": "50-40-2",
-    "units": 5.5,
-    "plays_graded": 92,
+    "record": "52-42-2",
+    "units": 5.32,
+    "plays_graded": 96,
     "free": {
-      "wins": 49,
-      "losses": 36,
+      "wins": 51,
+      "losses": 38,
       "pushes": 2,
-      "record": "49-36-2",
-      "units": 8.59
+      "record": "51-38-2",
+      "units": 8.41
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,46 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-11-04",
+      "sport": "NBA",
+      "game": "PHI @ DET",
+      "pick": "DET -2.5",
+      "result": "L",
+      "score": "PHI 112 - DET 106",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-04",
+      "sport": "NBA",
+      "game": "MIN @ HOU",
+      "pick": "HOU",
+      "result": "L",
+      "score": "MIN 117 - HOU 107",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-04",
+      "sport": "NBA",
+      "game": "DAL @ SAS",
+      "pick": "SAS",
+      "result": "W",
+      "score": "SAS 112 - DAL 111",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-04",
+      "sport": "NBA",
+      "game": "POR @ PHX",
+      "pick": "Jrue Holiday Under 4.5 Assists",
+      "result": "W",
+      "score": "POR 132 - PHX 119 (Holiday 0 AST)",
+      "units": 0.91,
+      "tier": "free"
+    },
     {
       "date": "2026-11-02",
       "sport": "NBA",
@@ -943,5 +983,5 @@
       "tier": "free"
     }
   ],
-  "generated_at": "2026-11-03"
+  "generated_at": "2026-11-05"
 }

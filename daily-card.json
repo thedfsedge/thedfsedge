@@ -1,7 +1,7 @@
 {
-  "date_label": "Tuesday, November 3",
+  "date_label": "Thursday, November 5",
   "tagline": "We make a number for every game. We bet the ones where the market's wrong.",
-  "generated_at": "2026-11-03",
+  "generated_at": "2026-11-05",
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
@@ -9,30 +9,69 @@
   },
   "games": [
     {
-      "league": "CFB",
-      "title": "MACtion: Ohio @ Akron",
-      "matchup": "Ohio Bobcats (6-2, 4-0 MAC) @ Akron Zips (1-7, 0-4 MAC)",
-      "time": "6:00 PM CT",
-      "tv": "ESPN2",
-      "venue": "InfoCision Stadium, Akron, OH",
-      "market": "Ohio -14.5, total 51.5 (consensus; Pinnacle total 51.0)",
-      "our_fair": "Ohio 85.0% / Akron 15.0% (devigged Pinnacle fair)",
-      "take": "The MAC's only unbeaten conference team visits its only winless one, and the market has priced that gap honestly: no US price beats the devigged Pinnacle fair on either side, spread, or total. Ohio's Nick Poulos is back healthy and efficient since returning from injury, while Akron's Brayden Roggow leads the MAC in interceptions and the Zips are without RB Chris Gee. Weather is a non-factor \u2014 clear, ~65\u00b0F at kickoff in Akron with a light SSE wind and no alerts. No true edge here, but the lean is Ohio on the moneyline because -600 (BetMGM) is the closest price to fair, at about -0.8% EV, while every Akron price is far worse.",
-      "verdict": "LEAN: Ohio \u2014 no true edge, but the lean is Ohio because -600 is the closest price to fair.",
-      "weather": "Clear, ~65\u00b0F at kickoff, SSE wind ~6 mph; no NWS alerts"
+      "league": "NFL",
+      "market": "Jacksonville -10, total 39.5 (FanDuel/DraftKings)",
+      "matchup": "Jacksonville Jaguars (5-2) @ Baltimore Ravens (4-4)",
+      "our_fair": "Jacksonville 82.5% / Baltimore 17.5% (devigged Pinnacle fair, moneyline); spread fair Jacksonville -10.5 47.5%",
+      "take": "Thursday night in Baltimore is all about the quarterback room: Lamar Jackson is out (IR, thumb surgery) and Tyler Huntley is out (toe), so undrafted rookie Joe Fagnano makes his first NFL start against a 5-2 Jacksonville team that scores 28.0 points per game and allows 15.9, second-fewest in the league. Baltimore has lost three straight and gives up 25.4 per game. The market has moved from 7.5 to 10 on the quarterback news and the number is about right now \u2014 no US price clears our 0.75% bar, so this is a lean, not a board play. Weather is a non-factor: cloudy, around 71\u00b0F at kickoff, with only a light rain chance late. No true edge here, but the lean is Jacksonville to win outright because Baltimore is starting a third-string rookie quarterback against the league's second-stingiest scoring defense.",
+      "time": "7:15 PM CT",
+      "title": "Thursday Night Football: Jacksonville @ Baltimore",
+      "tv": "Prime Video",
+      "venue": "M&T Bank Stadium, Baltimore, MD",
+      "verdict": "LEAN: Jacksonville \u2014 no true edge at -550, but the lean is Jacksonville to win because Baltimore is starting a third-string rookie QB against the league's second-stingiest scoring defense.",
+      "weather": "Cloudy, ~71\u00b0F at kickoff, light rain possible late; no NWS alerts"
     },
     {
       "league": "CFB",
-      "title": "MACtion: Buffalo @ Miami (OH)",
-      "matchup": "Buffalo Bulls (5-3, 3-1 MAC) @ Miami (OH) RedHawks (5-3, 3-1 MAC)",
-      "time": "7:00 PM CT",
+      "market": "UTSA -6.5, total 72.5 (FanDuel/DraftKings)",
+      "matchup": "UTSA Roadrunners (7-1) @ Florida Atlantic Owls (5-3)",
+      "our_fair": "UTSA 70.2% / Florida Atlantic 29.8% (devigged Pinnacle fair, moneyline); total fair Over 49.3% / Under 50.7%",
+      "take": "A Thursday shootout in Boca Raton: 7-1 UTSA, 4-0 in the American, visits 5-3 Florida Atlantic, which is unbeaten at home this season, with a total of 72.5 \u2014 one of the biggest numbers of the year. Florida Atlantic's passing attack meets a UTSA defense that grades poorly in coverage, and both teams have been involved in high-scoring games all season. No US price clears our 0.75% bar on the side or the total, so this is a lean, not a board play. Weather is a non-factor \u2014 near 80\u00b0F and mostly clear. No true edge here, but the lean is Under 72.5 because 72.5 is a huge number and the Under is the least-bad price on the board at -110 (fair 50.7%).",
+      "time": "6:30 PM CT",
+      "title": "Shootout in Boca: UTSA @ Florida Atlantic",
       "tv": "ESPN",
-      "venue": "Fred C. Yager Stadium, Oxford, OH",
-      "market": "Miami (OH) -6, total 44.5 (consensus; spread -6 to -6.5 across books)",
-      "our_fair": "Miami (OH) 67.2% / Buffalo 32.8% (devigged Pinnacle fair, moneyline); spread fair Buffalo +6 51.2%",
-      "take": "The consequential game of the night: both teams are 3-1 in the MAC, both on three-game winning streaks, and the loser takes real damage in the MAC race. Miami is down to its third quarterback in Caleb Heavner and leans on a run defense that has held four straight opponents under three yards per carry; Buffalo leans on Messiah Burch, who has topped 100 rushing yards in five straight games. The market has this one right too \u2014 no US price clears the 0.75% bar. No true edge here, but the lean is Buffalo +6 because, against a 51.2% Pinnacle spread fair, -108 is the least-bad number on the board, and five of Miami's last six games have been decided by four points or fewer.",
-      "verdict": "LEAN: Buffalo +6 \u2014 no true edge, but the lean is Buffalo because +6 is the closest price to fair.",
-      "weather": "Partly cloudy, ~68\u00b0F at kickoff, SSE wind 8-9 mph; no NWS alerts, rain after midnight"
+      "venue": "Flagler Credit Union Stadium, Boca Raton, FL",
+      "verdict": "LEAN: Under 72.5 \u2014 no true edge, but the lean is the Under because 72.5 is a huge number and the Under is the least-bad price at -110.",
+      "weather": "Near 80\u00b0F, mostly clear, 0% rain"
+    },
+    {
+      "league": "CFB",
+      "market": "James Madison -14.5, total 58.5; James Madison -500 (FanDuel)",
+      "matchup": "James Madison Dukes (7-2) @ Southern Miss Golden Eagles (3-5)",
+      "our_fair": "James Madison 84.0% / Southern Miss 16.0% (devigged Pinnacle fair, moneyline)",
+      "take": "7-2 James Madison heads to Hattiesburg off back-to-back losses, visiting a 3-5 Southern Miss team that has won two straight but owns the 136th-ranked run defense in FBS, allowing 223.4 rushing yards per game \u2014 against a James Madison ground game at 202.0 yards per game. The spread has trimmed from 15.5 to 14.5, but the moneyline is where the market is wrong: FanDuel hangs -500 while Pinnacle is -568 and DraftKings is -575. That beats the devigged Pinnacle fair and clears our 0.75% bar, so this is a real board play \u2014 thin, labeled honestly, and priced off the number. Weather is perfect football weather: clear skies, 65\u00b0F.",
+      "time": "7:00 PM CT",
+      "title": "Dukes look to get right at Southern Miss",
+      "tv": "ESPN2",
+      "venue": "M.M. Roberts Stadium, Hattiesburg, MS",
+      "verdict": "LEAN: James Madison \u2014 a real edge, not just a lean.",
+      "weather": "Clear skies, 65\u00b0F, 0% rain"
+    },
+    {
+      "league": "NBA",
+      "market": "Phoenix -1.5, total 223.5 (FanDuel)",
+      "matchup": "Orlando Magic (2-5) @ Phoenix Suns (1-5)",
+      "our_fair": "Phoenix 50.2% / Orlando 49.8% (devigged Pinnacle fair, moneyline); total fair Over 48.3% / Under 51.7% at 223.0",
+      "take": "Two slow starts meet in Phoenix: the 1-5 Suns are on the second night of a back-to-back after losing 132-119 to Portland, with the league's worst defense at 124.3 points allowed per game, while the 2-5 Magic have had two days' rest but are without Paolo Banchero (ankle) and Jalen Suggs. Phoenix's three home games have averaged 250.3 combined points, so the market's Over lean is understandable \u2014 but our fair at Pinnacle's 223.0 already has the Under at 51.7%, and no US price clears our 0.75% bar at a matched point. No true edge here, but the lean is Under 223.5 because our fair already favors the Under at 223.0, and FanDuel's extra half-point to 223.5 is worth roughly the push mass.",
+      "time": "8:00 PM CT",
+      "title": "Tired Suns host rested Magic",
+      "tv": "",
+      "venue": "Mortgage Matchup Center, Phoenix, AZ",
+      "verdict": "LEAN: Under 223.5 \u2014 no true edge at a matched point, but the lean is the Under because our fair already favors it at 223.0 and FanDuel's extra half-point helps.",
+      "weather": "Indoors"
+    },
+    {
+      "league": "NBA",
+      "market": "Golden State -7.5, total 235.5 (FanDuel)",
+      "matchup": "Miami Heat (3-5) @ Golden State Warriors (5-3)",
+      "our_fair": "Golden State 71.1% / Miami 28.9% (devigged Pinnacle fair, moneyline); spread fair Golden State -7.0 49.8%",
+      "take": "Rest is the story in San Francisco: 5-3 Golden State has won five straight and had two days off, with Stephen Curry averaging 30.0 points per game, while 3-5 Miami is on the second night of a back-to-back after an overtime win at the Clippers, 117-116. Golden State is without Kristaps Porzingis, but the Warriors are 5-3 for a reason and the market has them as a 7.5-point favorite. No US price clears our 0.75% bar, so this is a lean, not a board play. No true edge here, but the lean is Miami +7.5 because the half-point at -110 is the cheapest cover probability on this board, even with the back-to-back working against them.",
+      "time": "9:00 PM CT",
+      "title": "Rested Warriors host tired Heat",
+      "tv": "",
+      "venue": "Chase Center, San Francisco, CA",
+      "verdict": "LEAN: Miami +7.5 \u2014 no true edge, but the lean is Miami +7.5 because the half-point at -110 is the cheapest cover probability on this board.",
+      "weather": "Indoors"
     }
   ]
 }
