@@ -1,17 +1,17 @@
 {
   "summary": {
-    "wins": 52,
+    "wins": 53,
     "losses": 42,
     "pushes": 2,
-    "record": "52-42-2",
-    "units": 5.32,
-    "plays_graded": 96,
+    "record": "53-42-2",
+    "units": 6.23,
+    "plays_graded": 97,
     "free": {
-      "wins": 51,
+      "wins": 52,
       "losses": 38,
       "pushes": 2,
-      "record": "51-38-2",
-      "units": 8.41
+      "record": "52-38-2",
+      "units": 9.32
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,16 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-11-05",
+      "sport": "CFB",
+      "game": "JMU @ USM",
+      "pick": "JMU",
+      "result": "W",
+      "score": "JMU 54 - USM 23",
+      "units": 0.91,
+      "tier": "free"
+    },
     {
       "date": "2026-11-04",
       "sport": "NBA",
