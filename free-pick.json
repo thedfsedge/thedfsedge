@@ -1,11 +1,11 @@
 {
-  "date_label": "Thursday, November 5",
-  "board_title": "Thursday Board",
+  "date_label": "Friday, November 6",
+  "board_title": "Friday Board",
   "featured": {
     "sport": "CFB",
-    "matchup": "JMU @ USM",
-    "pick": "JMU",
-    "why": "fair 84.0% (devigged Pinnacle) vs 83.3% implied at -500 \u2014 FanDuel hangs -500 while Pinnacle is -568 and DraftKings is -575; JMU runs for 202.0 yds/game against a Southern Miss run defense allowing 223.4 yds/game (136th of 138 FBS). Clear skies, 65\u00b0F in Hattiesburg \u2014 no weather factor. Thin edge, labeled honestly."
+    "matchup": "TCU @ ARIZ",
+    "pick": "ARIZ",
+    "why": "fair 71.8% (devigged Pinnacle) vs 71.0% implied at -245 \u2014 FanDuel hangs -245 while Pinnacle is -269 and DraftKings is -285; Noah Fifita leads the Big 12's top passing attack (324.1 yds/game, 19 TDs) against a TCU offense scoring just 23.3 pts/game, with the Frogs' RB room banged up and a locker-room virus hitting 25-30 players. Partly cloudy, mid-60s in Tucson \u2014 no weather factor. Thin edge, labeled honestly."
   },
   "also_on_board": [],
   "links": {
@@ -13,5 +13,5 @@
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-11-05"
+  "generated_at": "2026-11-06"
 }
