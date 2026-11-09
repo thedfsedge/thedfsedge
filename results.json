@@ -1,17 +1,17 @@
 {
   "summary": {
-    "wins": 53,
-    "losses": 42,
+    "wins": 65,
+    "losses": 51,
     "pushes": 2,
-    "record": "53-42-2",
-    "units": 6.23,
-    "plays_graded": 97,
+    "record": "65-51-2",
+    "units": 8.15,
+    "plays_graded": 118,
     "free": {
-      "wins": 52,
-      "losses": 38,
+      "wins": 64,
+      "losses": 47,
       "pushes": 2,
-      "record": "52-38-2",
-      "units": 9.32
+      "record": "64-47-2",
+      "units": 11.24
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,216 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-11-08",
+      "sport": "NFL",
+      "game": "DEN @ CAR",
+      "pick": "Over 44.5",
+      "result": "W",
+      "score": "DEN 26 - CAR 21",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-08",
+      "sport": "NFL",
+      "game": "DEN @ CAR",
+      "pick": "DEN",
+      "result": "W",
+      "score": "DEN 26 - CAR 21",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-08",
+      "sport": "NFL",
+      "game": "DET @ MIA",
+      "pick": "DET",
+      "result": "W",
+      "score": "DET 19 - MIA 9",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-08",
+      "sport": "NFL",
+      "game": "NYJ @ KC",
+      "pick": "KC",
+      "result": "W",
+      "score": "KC 35 - NYJ 12",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-08",
+      "sport": "NFL",
+      "game": "NYG @ PHI",
+      "pick": "PHI +3",
+      "result": "L",
+      "score": "NYG 19 - PHI 11",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-08",
+      "sport": "NFL",
+      "game": "GB @ NE",
+      "pick": "NE -3",
+      "result": "L",
+      "score": "GB 45 - NE 27",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-08",
+      "sport": "NFL",
+      "game": "GB @ NE",
+      "pick": "NE",
+      "result": "L",
+      "score": "GB 45 - NE 27",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-08",
+      "sport": "NFL",
+      "game": "LV @ SF",
+      "pick": "SF",
+      "result": "W",
+      "score": "SF 38 - LV 17",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-08",
+      "sport": "NBA",
+      "game": "UTA @ MIN",
+      "pick": "MIN",
+      "result": "W",
+      "score": "MIN 115 - UTA 100",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-08",
+      "sport": "NBA",
+      "game": "BKN @ DAL",
+      "pick": "DAL",
+      "result": "W",
+      "score": "DAL 130 - BKN 93",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-07",
+      "sport": "CFB",
+      "game": "ODU @ CCU",
+      "pick": "CCU",
+      "result": "L",
+      "score": "ODU 21 - CCU 8",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-07",
+      "sport": "CFB",
+      "game": "ULM @ ARST",
+      "pick": "Over 52.5",
+      "result": "L",
+      "score": "ULM 19 - ARST 17",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-07",
+      "sport": "CFB",
+      "game": "UCF @ KU",
+      "pick": "KU",
+      "result": "L",
+      "score": "UCF 33 - KU 32",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-07",
+      "sport": "CFB",
+      "game": "RUT @ WIS",
+      "pick": "RUT",
+      "result": "L",
+      "score": "WIS 31 - RUT 10",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-07",
+      "sport": "CFB",
+      "game": "UK @ TENN",
+      "pick": "UK",
+      "result": "L",
+      "score": "TENN 34 - UK 6",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-07",
+      "sport": "CFB",
+      "game": "TXST @ ORST",
+      "pick": "ORST",
+      "result": "L",
+      "score": "TXST 42 - ORST 21",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-07",
+      "sport": "NBA",
+      "game": "DEN @ IND",
+      "pick": "DEN",
+      "result": "W",
+      "score": "DEN 114 - IND 102",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-07",
+      "sport": "NBA",
+      "game": "BKN @ ATL",
+      "pick": "ATL",
+      "result": "W",
+      "score": "ATL 124 - BKN 121",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-07",
+      "sport": "NBA",
+      "game": "WAS @ OKC",
+      "pick": "OKC",
+      "result": "W",
+      "score": "OKC 114 - WAS 75",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-07",
+      "sport": "NBA",
+      "game": "ORL @ GSW",
+      "pick": "GSW",
+      "result": "W",
+      "score": "GSW 126 - ORL 119",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-06",
+      "sport": "CFB",
+      "game": "TCU @ ARIZ",
+      "pick": "ARIZ",
+      "result": "W",
+      "score": "ARIZ 29 - TCU 28",
+      "units": 0.91,
+      "tier": "free"
+    },
     {
       "date": "2026-11-05",
       "sport": "CFB",
@@ -993,5 +1203,5 @@
       "tier": "free"
     }
   ],
-  "generated_at": "2026-11-06"
+  "generated_at": "2026-11-08"
 }

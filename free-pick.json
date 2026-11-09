@@ -1,17 +1,72 @@
 {
-  "date_label": "Friday, November 6",
-  "board_title": "Friday Board",
+  "date_label": "Sunday, November 8",
+  "board_title": "Sunday Board",
   "featured": {
-    "sport": "CFB",
-    "matchup": "TCU @ ARIZ",
-    "pick": "ARIZ",
-    "why": "fair 71.8% (devigged Pinnacle) vs 71.0% implied at -245 \u2014 FanDuel hangs -245 while Pinnacle is -269 and DraftKings is -285; Noah Fifita leads the Big 12's top passing attack (324.1 yds/game, 19 TDs) against a TCU offense scoring just 23.3 pts/game, with the Frogs' RB room banged up and a locker-room virus hitting 25-30 players. Partly cloudy, mid-60s in Tucson \u2014 no weather factor. Thin edge, labeled honestly."
+    "sport": "NFL",
+    "matchup": "DEN @ CAR",
+    "pick": "Over 44.5",
+    "why": "fair 52.5% (devigged Pinnacle) vs 51.5% implied at -106 \u2014 Courtside hangs -106 while Pinnacle is -117 on the Over. Carolina's secondary is missing its top four corners and Denver's safeties are banged up (Jones out) \u2014 both offenses can move it. Thin edge, labeled honestly."
   },
-  "also_on_board": [],
+  "also_on_board": [
+    {
+      "sport": "NFL",
+      "matchup": "DEN @ CAR",
+      "pick": "DEN",
+      "why": "fair 58.8% (devigged Pinnacle) vs 58.2% implied at -139 \u2014 Courtside hangs -139 while Pinnacle is -150. Denver's four-game win streak meets a Carolina secondary missing its top four corners. Thin edge, labeled honestly."
+    },
+    {
+      "sport": "NFL",
+      "matchup": "DET @ MIA",
+      "pick": "DET",
+      "why": "fair 74.8% (devigged Pinnacle) vs 73.7% implied at -280 \u2014 FanDuel hangs -280 while Pinnacle is -315. Dolphins RB Jaylen Wright is out (quad). The price is steep \u2014 the case is the number."
+    },
+    {
+      "sport": "NFL",
+      "matchup": "NYJ @ KC",
+      "pick": "KC",
+      "why": "fair 82.6% (devigged Pinnacle) vs 81.8% implied at -450 \u2014 reBet hangs -450 while Pinnacle is -510. Kansas City lays 9.5 at home to the Jets. Thin edge, labeled honestly."
+    },
+    {
+      "sport": "NFL",
+      "matchup": "NYG @ PHI",
+      "pick": "PHI +3",
+      "why": "fair 52.3% (devigged Pinnacle) vs 51.5% implied at -106 \u2014 Courtside hangs -106 while Pinnacle is -115 on Philadelphia +3. The Eagles are home underdogs to the Giants in a divisional game. Thin edge, labeled honestly."
+    },
+    {
+      "sport": "NFL",
+      "matchup": "GB @ NE",
+      "pick": "NE -3",
+      "why": "fair 53.9% (devigged Pinnacle) vs 52.4% implied at -110 \u2014 Courtside hangs -110 while Pinnacle is -123 on New England -3. Biggest edge on the board. A.J. Brown is out for the Patriots (knee) \u2014 the market knows, ruled out Friday \u2014 and the number still beats fair."
+    },
+    {
+      "sport": "NFL",
+      "matchup": "GB @ NE",
+      "pick": "NE",
+      "why": "fair 63.0% (devigged Pinnacle) vs 62.4% implied at -166 \u2014 Courtside hangs -166 while Pinnacle is -179. Same game as the -3 \u2014 the spread is the better number. Thin edge, labeled honestly."
+    },
+    {
+      "sport": "NFL",
+      "matchup": "LV @ SF",
+      "pick": "SF",
+      "why": "fair 81.9% (devigged Pinnacle) vs 81.1% implied at -429 \u2014 reBet hangs -429 while Pinnacle is -485. San Francisco lays 9.5 at home to the Raiders. Thin edge, labeled honestly."
+    },
+    {
+      "sport": "NBA",
+      "matchup": "UTA @ MIN",
+      "pick": "MIN",
+      "why": "fair 84.0% (devigged Pinnacle) vs 83.3% implied at -500 \u2014 BetRivers hangs -500 while Pinnacle is -563. The Wolves are without Anthony Edwards (knee) but host a 1-8 Jazz team missing Jaren Jackson Jr. and Jusuf Nurkic. Thinnest edge on the board, labeled honestly."
+    },
+    {
+      "sport": "NBA",
+      "matchup": "BKN @ DAL",
+      "pick": "DAL",
+      "why": "fair 75.0% (devigged Pinnacle) vs 73.5% implied at -278 \u2014 BetRivers hangs -278 while Pinnacle is -318. Dallas hosts Brooklyn with the Nets missing Mikel Brown Jr. and Egor Demin; Dereck Lively II is out for the Mavs. The case is the number."
+    }
+  ],
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-11-06"
+  "generated_at": "2026-11-08"
 }
