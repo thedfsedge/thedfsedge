@@ -1,17 +1,36 @@
 {
-  "date_label": "Monday, November 9",
-  "board_title": "Monday Board",
+  "date_label": "Tuesday, November 10",
+  "board_title": "Tuesday Board",
   "featured": {
     "sport": "NBA",
-    "matchup": "SAS @ PHX",
-    "pick": "SAS",
-    "why": "fair 77.4% (devigged Pinnacle) vs 75.9% implied at -315 \u2014 BetRivers hangs -315 while Pinnacle is -370 and FanDuel/DraftKings are -350/-359; Wembanyama (29.1 PPG, 12.0 RPG, league-best 3.9 blocks) faces a Suns team without Mark Williams, its only real center, on an eight-game win streak. Thin edge, labeled honestly."
+    "matchup": "LAC @ PHX",
+    "pick": "PHX",
+    "why": "fair 61.0% (devigged Pinnacle) vs 60.3% implied at -152 \u2014 BetRivers hangs -152 while FanDuel/DraftKings/BetMGM are -164 to -170; the Clippers are without Ingram (Achilles), Beal (knee), Miller and Konan Niederhauser, and Booker just scored 32 on Monday. Thin edge, labeled honestly."
   },
-  "also_on_board": [],
+  "also_on_board": [
+    {
+      "sport": "CFB",
+      "matchup": "KENT @ BGSU",
+      "pick": "BGSU",
+      "why": "fair 66.2% (devigged Pinnacle) vs 65.5% implied at -190 \u2014 BetRivers hangs -190 while the field is -205 to -226; Kent State's offense is fourth-worst in FBS (287.8 ypg) and just turned it over five times in a 31-10 loss at Sacramento State. Thin edge, labeled honestly."
+    },
+    {
+      "sport": "NBA",
+      "matchup": "MIL @ NYK",
+      "pick": "Myles Turner Over 1.5 Threes",
+      "why": "fair 56.1% (devigged FanDuel) vs 54.5% implied at -120 \u2014 BetMGM hangs -120 while FanDuel/DraftKings are -146; Turner takes 4.5 threes a game and shoots far better on the road (47% from three away vs 12% at home). Thin edge, labeled honestly."
+    },
+    {
+      "sport": "NBA",
+      "matchup": "LAC @ PHX",
+      "pick": "Darius Garland Under 2.5 Rebounds",
+      "why": "fair 56.1% (devigged FanDuel) vs 54.8% implied at -121 \u2014 DraftKings hangs -121 while FanDuel/BetRivers are -146/-141; Garland is the Clippers' pass-first starting point guard. Thin edge, labeled honestly."
+    }
+  ],
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-11-09"
+  "generated_at": "2026-11-10"
 }
