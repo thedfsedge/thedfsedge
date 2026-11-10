@@ -1,17 +1,17 @@
 {
   "summary": {
-    "wins": 65,
+    "wins": 66,
     "losses": 51,
     "pushes": 2,
-    "record": "65-51-2",
-    "units": 8.15,
-    "plays_graded": 118,
+    "record": "66-51-2",
+    "units": 9.06,
+    "plays_graded": 119,
     "free": {
-      "wins": 64,
+      "wins": 65,
       "losses": 47,
       "pushes": 2,
-      "record": "64-47-2",
-      "units": 11.24
+      "record": "65-47-2",
+      "units": 12.15
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,16 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-11-09",
+      "sport": "NBA",
+      "game": "SAS @ PHX",
+      "pick": "SAS",
+      "result": "W",
+      "score": "SAS 122 - PHX 96",
+      "units": 0.91,
+      "tier": "free"
+    },
     {
       "date": "2026-11-08",
       "sport": "NFL",
@@ -1203,5 +1213,5 @@
       "tier": "free"
     }
   ],
-  "generated_at": "2026-11-08"
+  "generated_at": "2026-11-09"
 }
