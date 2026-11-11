@@ -1,30 +1,30 @@
 {
-  "date_label": "Tuesday, November 10",
-  "board_title": "Tuesday Board",
+  "date_label": "Wednesday, November 11",
+  "board_title": "Wednesday Board",
   "featured": {
     "sport": "NBA",
-    "matchup": "LAC @ PHX",
-    "pick": "PHX",
-    "why": "fair 61.0% (devigged Pinnacle) vs 60.3% implied at -152 \u2014 BetRivers hangs -152 while FanDuel/DraftKings/BetMGM are -164 to -170; the Clippers are without Ingram (Achilles), Beal (knee), Miller and Konan Niederhauser, and Booker just scored 32 on Monday. Thin edge, labeled honestly."
+    "matchup": "OKC @ POR",
+    "pick": "Jrue Holiday Over 4.5 Assists",
+    "why": "fair 48.4% (devigged FanDuel) vs 45.5% implied at +120 \u2014 BetMGM hangs +120 while FanDuel is -108; Holiday averages 3.8 assists in 25.8 minutes a night and tonight is the rematch in Portland after the Blazers beat OKC 123-103 last night."
   },
   "also_on_board": [
     {
-      "sport": "CFB",
-      "matchup": "KENT @ BGSU",
-      "pick": "BGSU",
-      "why": "fair 66.2% (devigged Pinnacle) vs 65.5% implied at -190 \u2014 BetRivers hangs -190 while the field is -205 to -226; Kent State's offense is fourth-worst in FBS (287.8 ypg) and just turned it over five times in a 31-10 loss at Sacramento State. Thin edge, labeled honestly."
+      "sport": "NBA",
+      "matchup": "CLE @ NYK",
+      "pick": "OG Anunoby Under 2.5 Threes",
+      "why": "fair 61.5% (devigged FanDuel) vs 60.0% implied at -150 \u2014 BetMGM hangs -150 while FanDuel is -182; Anunoby has gone under 2.5 threes in 6 of his last 10. Headwind noted: Cleveland just gave up 23 threes to Charlotte \u2014 the price is the edge."
     },
     {
       "sport": "NBA",
-      "matchup": "MIL @ NYK",
-      "pick": "Myles Turner Over 1.5 Threes",
-      "why": "fair 56.1% (devigged FanDuel) vs 54.5% implied at -120 \u2014 BetMGM hangs -120 while FanDuel/DraftKings are -146; Turner takes 4.5 threes a game and shoots far better on the road (47% from three away vs 12% at home). Thin edge, labeled honestly."
+      "matchup": "SAS @ CHI",
+      "pick": "SAS -14.5",
+      "why": "fair 51.7% (devigged Pinnacle) vs 51.2% implied at -105 \u2014 ESPN Bet hangs -105 while Pinnacle is -112; the Spurs are the far better team, Vassell (groin) questionable for San Antonio, Powell (back) questionable for Chicago. Thin edge, labeled honestly."
     },
     {
       "sport": "NBA",
-      "matchup": "LAC @ PHX",
-      "pick": "Darius Garland Under 2.5 Rebounds",
-      "why": "fair 56.1% (devigged FanDuel) vs 54.8% implied at -121 \u2014 DraftKings hangs -121 while FanDuel/BetRivers are -146/-141; Garland is the Clippers' pass-first starting point guard. Thin edge, labeled honestly."
+      "matchup": "LAL @ MIL",
+      "pick": "LAL",
+      "why": "fair 87.5% (devigged Pinnacle) vs 86.8% implied at -659 \u2014 Lowvig hangs -659 while Pinnacle is -779; Austin Reaves is back from illness for the Lakers. The price is the whole case here \u2014 thin edge, labeled honestly."
     }
   ],
   "links": {
@@ -32,5 +32,5 @@
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-11-10"
+  "generated_at": "2026-11-11"
 }
