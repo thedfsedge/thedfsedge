@@ -1,17 +1,17 @@
 {
   "summary": {
-    "wins": 66,
-    "losses": 51,
+    "wins": 68,
+    "losses": 53,
     "pushes": 2,
-    "record": "66-51-2",
-    "units": 9.06,
-    "plays_graded": 119,
+    "record": "68-53-2",
+    "units": 8.88,
+    "plays_graded": 123,
     "free": {
-      "wins": 65,
-      "losses": 47,
+      "wins": 67,
+      "losses": 49,
       "pushes": 2,
-      "record": "65-47-2",
-      "units": 12.15
+      "record": "67-49-2",
+      "units": 11.97
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,46 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-11-10",
+      "sport": "NBA",
+      "game": "LAC @ PHX",
+      "pick": "PHX",
+      "result": "W",
+      "score": "PHX 133 - LAC 110",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-10",
+      "sport": "CFB",
+      "game": "KENT @ BGSU",
+      "pick": "BGSU",
+      "result": "W",
+      "score": "BGSU 33 - KENT 28",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-10",
+      "sport": "NBA",
+      "game": "MIL @ NYK",
+      "pick": "Myles Turner Over 1.5 Threes",
+      "result": "L",
+      "score": "NYK 117 - MIL 85 (Turner 1 3PM)",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-10",
+      "sport": "NBA",
+      "game": "LAC @ PHX",
+      "pick": "Darius Garland Under 2.5 Rebounds",
+      "result": "L",
+      "score": "PHX 133 - LAC 110 (Garland 5 REB)",
+      "units": -1.0,
+      "tier": "free"
+    },
     {
       "date": "2026-11-09",
       "sport": "NBA",
