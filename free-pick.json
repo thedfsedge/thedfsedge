@@ -1,36 +1,14 @@
 {
-  "date_label": "Wednesday, November 11",
-  "board_title": "Wednesday Board",
-  "featured": {
-    "sport": "NBA",
-    "matchup": "OKC @ POR",
-    "pick": "Jrue Holiday Over 4.5 Assists",
-    "why": "fair 48.4% (devigged FanDuel) vs 45.5% implied at +120 \u2014 BetMGM hangs +120 while FanDuel is -108; Holiday averages 3.8 assists in 25.8 minutes a night and tonight is the rematch in Portland after the Blazers beat OKC 123-103 last night."
-  },
-  "also_on_board": [
-    {
-      "sport": "NBA",
-      "matchup": "CLE @ NYK",
-      "pick": "OG Anunoby Under 2.5 Threes",
-      "why": "fair 61.5% (devigged FanDuel) vs 60.0% implied at -150 \u2014 BetMGM hangs -150 while FanDuel is -182; Anunoby has gone under 2.5 threes in 6 of his last 10. Headwind noted: Cleveland just gave up 23 threes to Charlotte \u2014 the price is the edge."
-    },
-    {
-      "sport": "NBA",
-      "matchup": "SAS @ CHI",
-      "pick": "SAS -14.5",
-      "why": "fair 51.7% (devigged Pinnacle) vs 51.2% implied at -105 \u2014 ESPN Bet hangs -105 while Pinnacle is -112; the Spurs are the far better team, Vassell (groin) questionable for San Antonio, Powell (back) questionable for Chicago. Thin edge, labeled honestly."
-    },
-    {
-      "sport": "NBA",
-      "matchup": "LAL @ MIL",
-      "pick": "LAL",
-      "why": "fair 87.5% (devigged Pinnacle) vs 86.8% implied at -659 \u2014 Lowvig hangs -659 while Pinnacle is -779; Austin Reaves is back from illness for the Lakers. The price is the whole case here \u2014 thin edge, labeled honestly."
-    }
-  ],
+  "date_label": "Thursday, November 12",
+  "board_title": "Thursday Board",
+  "featured": null,
+  "also_on_board": [],
+  "thin_slate": true,
+  "note": "No plays cleared the +EV bar today.",
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-11-11"
+  "generated_at": "2026-11-12"
 }
