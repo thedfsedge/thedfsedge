@@ -1,17 +1,17 @@
 {
   "summary": {
-    "wins": 68,
-    "losses": 53,
+    "wins": 71,
+    "losses": 54,
     "pushes": 2,
-    "record": "68-53-2",
-    "units": 8.88,
-    "plays_graded": 123,
+    "record": "71-54-2",
+    "units": 10.61,
+    "plays_graded": 127,
     "free": {
-      "wins": 67,
-      "losses": 49,
+      "wins": 70,
+      "losses": 50,
       "pushes": 2,
-      "record": "67-49-2",
-      "units": 11.97
+      "record": "70-50-2",
+      "units": 13.7
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,46 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-11-11",
+      "sport": "NBA",
+      "game": "OKC @ POR",
+      "pick": "Jrue Holiday Over 4.5 Assists",
+      "result": "W",
+      "score": "POR 118 - OKC 108 (Holiday 5 AST)",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-11",
+      "sport": "NBA",
+      "game": "CLE @ NYK",
+      "pick": "OG Anunoby Under 2.5 Threes",
+      "result": "W",
+      "score": "CLE 115 - NYK 107 (Anunoby 2 3PM)",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-11",
+      "sport": "NBA",
+      "game": "SAS @ CHI",
+      "pick": "SAS -14.5",
+      "result": "L",
+      "score": "SAS 124 - CHI 119",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-11",
+      "sport": "NBA",
+      "game": "LAL @ MIL",
+      "pick": "LAL",
+      "result": "W",
+      "score": "LAL 123 - MIL 112",
+      "units": 0.91,
+      "tier": "free"
+    },
     {
       "date": "2026-11-10",
       "sport": "NBA",
