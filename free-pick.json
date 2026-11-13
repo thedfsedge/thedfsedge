@@ -1,14 +1,17 @@
 {
-  "date_label": "Thursday, November 12",
-  "board_title": "Thursday Board",
-  "featured": null,
+  "date_label": "Friday, November 13",
+  "board_title": "Friday Board",
+  "featured": {
+    "sport": "NBA",
+    "matchup": "MIL @ ORL",
+    "pick": "Franz Wagner Under 1.5 Steals",
+    "why": "fair 64.3% (devigged FanDuel) vs 63.8% implied at -176 \u2014 DraftKings hangs -176 while FanDuel is -205; Wagner has gone under 1.5 steals in 7 of 11 games (1.4 per game). Headwind: 2+ steals in 3 of his last 5, including 4 at Phoenix. Thin edge, labeled honestly."
+  },
   "also_on_board": [],
-  "thin_slate": true,
-  "note": "No plays cleared the +EV bar today.",
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-11-12"
+  "generated_at": "2026-11-13"
 }
