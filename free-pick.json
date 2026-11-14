@@ -1,17 +1,72 @@
 {
-  "date_label": "Friday, November 13",
-  "board_title": "Friday Board",
+  "date_label": "Saturday, November 14",
+  "board_title": "Saturday Board",
   "featured": {
-    "sport": "NBA",
-    "matchup": "MIL @ ORL",
-    "pick": "Franz Wagner Under 1.5 Steals",
-    "why": "fair 64.3% (devigged FanDuel) vs 63.8% implied at -176 \u2014 DraftKings hangs -176 while FanDuel is -205; Wagner has gone under 1.5 steals in 7 of 11 games (1.4 per game). Headwind: 2+ steals in 3 of his last 5, including 4 at Phoenix. Thin edge, labeled honestly."
+    "sport": "CFB",
+    "matchup": "WIS @ MD",
+    "pick": "Maryland",
+    "why": "fair 25.2% (devigged Pinnacle) vs 23.8% implied at +320 \u2014 rebet hangs +320 while Pinnacle is +270 and the rest of the market is +260 to +290. Wisconsin is without its top pass rusher Sebastian Cheeks, and Maryland won this matchup 27-10 last year. Headwind: Maryland QB Malik Washington is a game-time decision \u2014 if he sits, this edge shrinks fast."
   },
-  "also_on_board": [],
+  "also_on_board": [
+    {
+      "sport": "CFB",
+      "matchup": "KU @ WVU",
+      "pick": "Kansas",
+      "why": "fair 46.0% (devigged Pinnacle) vs 44.9% implied at +123 \u2014 BetRivers hangs +123 while Pinnacle is +112 and most books are +110. West Virginia is down two starting offensive linemen and its tight end; both defenses just gave up 30+ in shootout losses. A coin-flip game priced like a dog."
+    },
+    {
+      "sport": "CFB",
+      "matchup": "KU @ WVU",
+      "pick": "Kansas +2.5",
+      "why": "fair 51.0% (devigged Pinnacle) vs 50.0% implied at +100 \u2014 five books hang +100 on Kansas +2.5 while Pinnacle's fair says the Jayhawks cover more than half the time. Same game as the moneyline \u2014 correlated, capped at two plays from this game."
+    },
+    {
+      "sport": "CFB",
+      "matchup": "UAB @ TEM",
+      "pick": "Under 48.0",
+      "why": "fair 51.5% (devigged Pinnacle) vs 50.7% implied at -103 \u2014 lowvig hangs Under 48 at -103 while Pinnacle leans Under (-115) and the total has been bet down from 51.5. UAB is 1-8 to the over this season on an eight-game under run. Headwind: Temple's defense has allowed 34+ in three of its last four."
+    },
+    {
+      "sport": "CFB",
+      "matchup": "FLA @ UK",
+      "pick": "Kentucky -3",
+      "why": "fair 50.5% (devigged Pinnacle) vs 49.0% implied at +104 \u2014 lowvig hangs Kentucky -3 at plus money while the rest of the market is -105 to -115. Florida has scored two touchdowns in its last two games, is on its third quarterback arrangement in four weeks, and is without its top receiver; Kentucky leads the SEC in turnover margin at +10."
+    },
+    {
+      "sport": "CFB",
+      "matchup": "LOU @ UNC",
+      "pick": "Louisville",
+      "why": "fair 61.5% (devigged Pinnacle) vs 60.9% implied at -156 \u2014 FanDuel hangs -156 while Pinnacle is -168. Louisville averages 40.8 points a game and gets RB Isaac Brown and WR Lawayne McCoy back; UNC's secondary is banged up (starting safety questionable, corner out). Thin edge, labeled honestly."
+    },
+    {
+      "sport": "CFB",
+      "matchup": "SC @ ARK",
+      "pick": "Over 51.5",
+      "why": "fair 52.1% (devigged Pinnacle) vs 51.2% implied at -105 \u2014 FanDuel hangs -105 on the over while Pinnacle is -117. South Carolina averages 34.7 points and 452.6 yards a game; Arkansas's defense allows well over 300 yards a game. Headwind: QB LaNorris Sellers is questionable with an ankle injury and SC is without its leading rusher and three offensive linemen."
+    },
+    {
+      "sport": "NBA",
+      "matchup": "BKN @ MEM",
+      "pick": "Zach Edey Over 8.5 Rebounds",
+      "why": "fair 41.7% (devigged FanDuel) vs 40.8% implied at +145 \u2014 Bovada hangs +145 while FanDuel's fair line says Edey grabs 9+ boards more than two times in five. He's averaged 8.0 rebounds in 20 minutes over his last six. Status flag: he sat Friday for ankle management and is expected back tonight \u2014 if he sits, the prop voids."
+    },
+    {
+      "sport": "NBA",
+      "matchup": "BKN @ MEM",
+      "pick": "Zach Edey Under 8.5 Points",
+      "why": "fair 53.6% (devigged FanDuel) vs 53.1% implied at -113 \u2014 DraftKings hangs -113 while FanDuel is shorter on the same line. Edey is averaging 8.0 points in 20 minutes over his last six, and scored 2 in 19 minutes Wednesday. Same ankle status flag as the rebounds prop \u2014 if he sits, it voids."
+    },
+    {
+      "sport": "NBA",
+      "matchup": "DEN @ NOP",
+      "pick": "Saddiq Bey Under 2.5 Threes",
+      "why": "fair 60.8% (devigged FanDuel) vs 60.0% implied at -150 \u2014 Bovada hangs -150 while FanDuel's fair line says Bey hits 2 or fewer threes three times in five. He's under 2.5 in three of his last five and averages 1.7 threes a game this season."
+    }
+  ],
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-11-13"
+  "generated_at": "2026-11-14"
 }

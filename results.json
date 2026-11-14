@@ -1,17 +1,17 @@
 {
   "summary": {
-    "wins": 71,
+    "wins": 72,
     "losses": 54,
     "pushes": 2,
-    "record": "71-54-2",
-    "units": 10.61,
-    "plays_graded": 127,
+    "record": "72-54-2",
+    "units": 11.52,
+    "plays_graded": 128,
     "free": {
-      "wins": 70,
+      "wins": 71,
       "losses": 50,
       "pushes": 2,
-      "record": "70-50-2",
-      "units": 13.7
+      "record": "71-50-2",
+      "units": 14.61
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,16 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-11-13",
+      "sport": "NBA",
+      "game": "MIL @ ORL",
+      "pick": "Franz Wagner Under 1.5 Steals",
+      "result": "W",
+      "score": "ORL 107 - MIL 99 (Wagner 1 STL)",
+      "units": 0.91,
+      "tier": "free"
+    },
     {
       "date": "2026-11-11",
       "sport": "NBA",
@@ -1293,5 +1303,5 @@
       "tier": "free"
     }
   ],
-  "generated_at": "2026-11-13"
+  "generated_at": "2026-11-14"
 }
