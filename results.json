@@ -1,17 +1,17 @@
 {
   "summary": {
-    "wins": 72,
-    "losses": 54,
-    "pushes": 2,
-    "record": "72-54-2",
-    "units": 11.52,
-    "plays_graded": 128,
+    "wins": 77,
+    "losses": 56,
+    "pushes": 4,
+    "record": "77-56-4",
+    "units": 14.07,
+    "plays_graded": 137,
     "free": {
-      "wins": 71,
-      "losses": 50,
-      "pushes": 2,
-      "record": "71-50-2",
-      "units": 14.61
+      "wins": 76,
+      "losses": 52,
+      "pushes": 4,
+      "record": "76-52-4",
+      "units": 17.16
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,96 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-11-14",
+      "sport": "CFB",
+      "game": "KU @ WVU",
+      "pick": "Kansas",
+      "result": "W",
+      "score": "KU 37 - WVU 14",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-14",
+      "sport": "CFB",
+      "game": "KU @ WVU",
+      "pick": "Kansas +2.5",
+      "result": "W",
+      "score": "KU 37 - WVU 14",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-14",
+      "sport": "CFB",
+      "game": "UAB @ TEM",
+      "pick": "Under 48.0",
+      "result": "W",
+      "score": "UAB 36 - TEM 10 (46 pts)",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-14",
+      "sport": "CFB",
+      "game": "FLA @ UK",
+      "pick": "Kentucky -3",
+      "result": "L",
+      "score": "FLA 21 - UK 14",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-14",
+      "sport": "CFB",
+      "game": "LOU @ UNC",
+      "pick": "Louisville",
+      "result": "W",
+      "score": "LOU 16 - UNC 14",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-14",
+      "sport": "CFB",
+      "game": "SC @ ARK",
+      "pick": "Over 51.5",
+      "result": "L",
+      "score": "ARK 34 - SC 6 (40 pts)",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-14",
+      "sport": "NBA",
+      "game": "BKN @ MEM",
+      "pick": "Zach Edey Over 8.5 Rebounds",
+      "result": "P",
+      "score": "MEM 129 - BKN 110 (Edey DNP - ankle)",
+      "units": 0.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-14",
+      "sport": "NBA",
+      "game": "BKN @ MEM",
+      "pick": "Zach Edey Under 8.5 Points",
+      "result": "P",
+      "score": "MEM 129 - BKN 110 (Edey DNP - ankle)",
+      "units": 0.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-14",
+      "sport": "NBA",
+      "game": "DEN @ NOP",
+      "pick": "Saddiq Bey Under 2.5 Threes",
+      "result": "W",
+      "score": "DEN 116 - NOP 108 (Bey 2 3PM)",
+      "units": 0.91,
+      "tier": "free"
+    },
     {
       "date": "2026-11-13",
       "sport": "NBA",
