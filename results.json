@@ -1,17 +1,17 @@
 {
   "summary": {
-    "wins": 77,
-    "losses": 56,
+    "wins": 79,
+    "losses": 59,
     "pushes": 4,
-    "record": "77-56-4",
-    "units": 14.07,
-    "plays_graded": 137,
+    "record": "79-59-4",
+    "units": 12.89,
+    "plays_graded": 142,
     "free": {
-      "wins": 76,
-      "losses": 52,
+      "wins": 78,
+      "losses": 55,
       "pushes": 4,
-      "record": "76-52-4",
-      "units": 17.16
+      "record": "78-55-4",
+      "units": 15.98
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,56 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-11-15",
+      "sport": "NFL",
+      "game": "JAX @ TEN",
+      "pick": "Tennessee Titans",
+      "result": "L",
+      "score": "JAX 40 - TEN 23",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-15",
+      "sport": "NBA",
+      "game": "LAL @ PHX",
+      "pick": "Phoenix Suns",
+      "result": "L",
+      "score": "LAL 131 - PHX 123",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-15",
+      "sport": "NBA",
+      "game": "LAL @ PHX",
+      "pick": "Luka Doncic Over 4.5 Threes",
+      "result": "W",
+      "score": "LAL 131 - PHX 123 (Doncic 5 3PM)",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-15",
+      "sport": "NBA",
+      "game": "CHA @ LAC",
+      "pick": "Kris Dunn Under 3.5 Assists",
+      "result": "W",
+      "score": "LAC 113 - CHA 105 (Dunn 1 AST)",
+      "units": 0.91,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-15",
+      "sport": "NFL",
+      "game": "KC @ ATL",
+      "pick": "Patrick Mahomes Under 1.5 Pass TDs",
+      "result": "L",
+      "score": "KC 35 - ATL 13 (Mahomes 5 pass TDs)",
+      "units": -1.0,
+      "tier": "free"
+    },
     {
       "date": "2026-11-14",
       "sport": "CFB",
@@ -1393,5 +1443,5 @@
       "tier": "free"
     }
   ],
-  "generated_at": "2026-11-15"
+  "generated_at": "2026-11-16"
 }
