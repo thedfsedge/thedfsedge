@@ -1,42 +1,17 @@
 {
-  "date_label": "Sunday, November 15",
-  "board_title": "Sunday Board",
+  "date_label": "Monday, November 16",
+  "board_title": "Monday Board",
   "featured": {
-    "sport": "NFL",
-    "matchup": "JAX @ TEN",
-    "pick": "Tennessee Titans",
-    "why": "fair 16.8% (devigged Pinnacle) vs 16.4% implied at +508 \u2014 Courtside hangs +508 while Pinnacle's fair implies about +495 and most books sit at +500. Headwind: the Titans are depleted \u2014 Skoronski to IR, Tate out, Barton and Hill out, Simmons and Hooker traded at the deadline \u2014 but they have scored 24+ in each of their last three, and this is a home divisional dog priced a touch too long."
+    "sport": "NBA",
+    "matchup": "POR @ MIN",
+    "pick": "Toumani Camara Over 11.5 Points",
+    "why": "fair 53.6% (devigged FanDuel, re-verified at board time) vs 52.4% implied at -110 \u2014 Camara has cleared 11.5 in 4 of his last 5, averaging 12.1 points over his last 10, starting and playing 30-38 minutes a night. Portland is 9-3 visiting a Minnesota side without Edwards, DiVincenzo and Clark."
   },
-  "also_on_board": [
-    {
-      "sport": "NBA",
-      "matchup": "LAL @ PHX",
-      "pick": "Phoenix Suns",
-      "why": "fair 41.7% (devigged Pinnacle) vs 41.2% implied at +143 \u2014 BetRivers hangs +143 while Pinnacle's fair implies about +140. Phoenix is home, Devin Booker just dropped 30 in a 133-110 win over the Clippers, and the 11-2 Lakers are laying only 2.5 on the road. Thin edge, labeled honestly."
-    },
-    {
-      "sport": "NBA",
-      "matchup": "LAL @ PHX",
-      "pick": "Luka Doncic Over 4.5 Threes",
-      "why": "fair 54.2% (devigged FanDuel) vs 53.5% implied at -115 \u2014 Luka has made 55 threes in his last 10 games (5.5 a night) and cleared 4.5 in 9 of 10, launching 13.5 attempts a game. Same game as the Suns moneyline \u2014 correlated, capped at two plays from this game."
-    },
-    {
-      "sport": "NBA",
-      "matchup": "CHA @ LAC",
-      "pick": "Kris Dunn Under 3.5 Assists",
-      "why": "fair 55.7% (devigged FanDuel) vs 55.0% implied at -122 \u2014 Dunn's minutes are shrinking (20 and 19 in his last two) and he is under 3.5 assists in 4 of his last 6. Flag: he did dish 6 against OKC on Friday, so the role can spike."
-    },
-    {
-      "sport": "NFL",
-      "matchup": "KC @ ATL",
-      "pick": "Patrick Mahomes Under 1.5 Pass TDs",
-      "why": "fair 46.2% (devigged FanDuel) vs 45.5% implied at +120 \u2014 Mahomes has 14 passing TDs in 8 games and went under 1.5 in 2 of his last 5 (0 vs Seattle, 0 vs the Chargers). Headwind: Kenneth Walker III is OUT with a groin injury, which could push Kansas City to throw more; Mahomes' elbow is cleared and he practiced fully."
-    }
-  ],
+  "also_on_board": [],
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-11-15"
+  "generated_at": "2026-11-16"
 }
