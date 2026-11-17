@@ -1,11 +1,11 @@
 {
-  "date_label": "Monday, November 16",
-  "board_title": "Monday Board",
+  "date_label": "Tuesday, November 17",
+  "board_title": "Tuesday Board",
   "featured": {
     "sport": "NBA",
-    "matchup": "POR @ MIN",
-    "pick": "Toumani Camara Over 11.5 Points",
-    "why": "fair 53.6% (devigged FanDuel, re-verified at board time) vs 52.4% implied at -110 \u2014 Camara has cleared 11.5 in 4 of his last 5, averaging 12.1 points over his last 10, starting and playing 30-38 minutes a night. Portland is 9-3 visiting a Minnesota side without Edwards, DiVincenzo and Clark."
+    "matchup": "DET @ SAS",
+    "pick": "Daniss Jenkins Under 3.5 Rebounds",
+    "why": "fair 53.1% (devigged FanDuel, re-verified at board time) vs 52.2% implied at -109 \u2014 Jenkins is under 3.5 rebounds in 6 of his last 10, averaging 3.6, projection 3.4; Wembanyama owns the glass for San Antonio (11.6 per game)."
   },
   "also_on_board": [],
   "links": {
@@ -13,5 +13,5 @@
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-11-16"
+  "generated_at": "2026-11-17"
 }

@@ -1,17 +1,17 @@
 {
   "summary": {
     "wins": 79,
-    "losses": 59,
+    "losses": 60,
     "pushes": 4,
-    "record": "79-59-4",
-    "units": 12.89,
-    "plays_graded": 142,
+    "record": "79-60-4",
+    "units": 11.89,
+    "plays_graded": 143,
     "free": {
       "wins": 78,
-      "losses": 55,
+      "losses": 56,
       "pushes": 4,
-      "record": "78-55-4",
-      "units": 15.98
+      "record": "78-56-4",
+      "units": 14.98
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,16 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-11-16",
+      "sport": "NBA",
+      "game": "POR @ MIN",
+      "pick": "Toumani Camara Over 11.5 Points",
+      "result": "L",
+      "score": "MIN 106 - POR 98 (Camara 3 PTS)",
+      "units": -1.0,
+      "tier": "free"
+    },
     {
       "date": "2026-11-15",
       "sport": "NFL",
@@ -1443,5 +1453,5 @@
       "tier": "free"
     }
   ],
-  "generated_at": "2026-11-16"
+  "generated_at": "2026-11-17"
 }
