@@ -1,17 +1,17 @@
 {
   "summary": {
     "wins": 79,
-    "losses": 60,
+    "losses": 61,
     "pushes": 4,
-    "record": "79-60-4",
-    "units": 11.89,
-    "plays_graded": 143,
+    "record": "79-61-4",
+    "units": 10.89,
+    "plays_graded": 144,
     "free": {
       "wins": 78,
-      "losses": 56,
+      "losses": 57,
       "pushes": 4,
-      "record": "78-56-4",
-      "units": 14.98
+      "record": "78-57-4",
+      "units": 13.98
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,16 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-11-17",
+      "sport": "NBA",
+      "game": "DET @ SAS",
+      "pick": "Daniss Jenkins Under 3.5 Rebounds",
+      "result": "L",
+      "score": "DET 105 - SAS 93 (Jenkins 5 REB)",
+      "units": -1.0,
+      "tier": "free"
+    },
     {
       "date": "2026-11-16",
       "sport": "NBA",
@@ -1453,5 +1463,5 @@
       "tier": "free"
     }
   ],
-  "generated_at": "2026-11-17"
+  "generated_at": "2026-11-18"
 }

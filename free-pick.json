@@ -1,17 +1,24 @@
 {
-  "date_label": "Tuesday, November 17",
-  "board_title": "Tuesday Board",
+  "date_label": "Wednesday, November 18",
+  "board_title": "Wednesday Board",
   "featured": {
     "sport": "NBA",
-    "matchup": "DET @ SAS",
-    "pick": "Daniss Jenkins Under 3.5 Rebounds",
-    "why": "fair 53.1% (devigged FanDuel, re-verified at board time) vs 52.2% implied at -109 \u2014 Jenkins is under 3.5 rebounds in 6 of his last 10, averaging 3.6, projection 3.4; Wembanyama owns the glass for San Antonio (11.6 per game)."
+    "matchup": "WAS @ TOR",
+    "pick": "Toronto Raptors ML",
+    "why": "fair 69.9% (devigged Pinnacle, re-verified at board time) vs 69.2% implied at -225 \u2014 Circa is 20+ cents off a market sitting at -243 to -260; Washington has lost 8 straight and Toronto is the better side at home even on the second night of a back-to-back."
   },
-  "also_on_board": [],
+  "also_on_board": [
+    {
+      "sport": "NBA",
+      "matchup": "PHX @ SAC",
+      "pick": "Collin Gillespie Under 1.5 Steals",
+      "why": "fair 68.2% (devigged FanDuel, re-verified at board time) vs 67.4% implied at -207 \u2014 Gillespie is under 1.5 steals in 5 of his last 10, playing about 25 minutes off the bench for Phoenix; steals come in bunches and the market's own fair price says under."
+    }
+  ],
   "links": {
     "site": "https://thedfsedge.com",
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-11-17"
+  "generated_at": "2026-11-18"
 }
