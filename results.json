@@ -1,17 +1,17 @@
 {
   "summary": {
-    "wins": 79,
-    "losses": 61,
+    "wins": 80,
+    "losses": 62,
     "pushes": 4,
-    "record": "79-61-4",
-    "units": 10.89,
-    "plays_graded": 144,
+    "record": "80-62-4",
+    "units": 10.8,
+    "plays_graded": 146,
     "free": {
-      "wins": 78,
-      "losses": 57,
+      "wins": 79,
+      "losses": 58,
       "pushes": 4,
-      "record": "78-57-4",
-      "units": 13.98
+      "record": "79-58-4",
+      "units": 13.89
     },
     "premium": {
       "wins": 1,
@@ -22,6 +22,26 @@
     }
   },
   "plays": [
+    {
+      "date": "2026-11-18",
+      "sport": "NBA",
+      "game": "WAS @ TOR",
+      "pick": "Toronto Raptors ML",
+      "result": "L",
+      "score": "WAS 103 - TOR 99",
+      "units": -1.0,
+      "tier": "free"
+    },
+    {
+      "date": "2026-11-18",
+      "sport": "NBA",
+      "game": "PHX @ SAC",
+      "pick": "Collin Gillespie Under 1.5 Steals",
+      "result": "W",
+      "score": "PHX 128 - SAC 107 (Gillespie 1 STL)",
+      "units": 0.91,
+      "tier": "free"
+    },
     {
       "date": "2026-11-17",
       "sport": "NBA",
@@ -1463,5 +1483,5 @@
       "tier": "free"
     }
   ],
-  "generated_at": "2026-11-18"
+  "generated_at": "2026-11-19"
 }

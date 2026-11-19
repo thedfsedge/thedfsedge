@@ -1,18 +1,24 @@
 {
-  "date_label": "Wednesday, November 18",
-  "board_title": "Wednesday Board",
+  "date_label": "Thursday, November 19",
+  "board_title": "Thursday Board",
   "featured": {
     "sport": "NBA",
-    "matchup": "WAS @ TOR",
-    "pick": "Toronto Raptors ML",
-    "why": "fair 69.9% (devigged Pinnacle, re-verified at board time) vs 69.2% implied at -225 \u2014 Circa is 20+ cents off a market sitting at -243 to -260; Washington has lost 8 straight and Toronto is the better side at home even on the second night of a back-to-back."
+    "matchup": "GSW @ MEM",
+    "pick": "Memphis Grizzlies -6.5",
+    "why": "fair 51.2% (devigged Pinnacle, re-verified at board time) vs 50.0% implied at +100 \u2014 ESPN Bet still hanging -6.5 at even money while the market sits at -6.5 -110 and -7.5 elsewhere; Golden State is without Curry (oblique), Butler (ACL) and Moody, 0-4 on this trip, while Memphis is 11-4 and 11-4 ATS at home."
   },
   "also_on_board": [
     {
+      "sport": "CFB",
+      "matchup": "Rice @ Temple",
+      "pick": "Temple Owls -2.5",
+      "why": "fair 51.9% (devigged Pinnacle, re-verified at board time) vs 51.2% implied at -105 \u2014 ESPN Bet is 10 cents off the -115 market on -2.5; Temple is 2-8 but Rice is 1-9, and the number has already moved from -4 to -2.5, so this is a price edge, not a matchup call."
+    },
+    {
       "sport": "NBA",
-      "matchup": "PHX @ SAC",
-      "pick": "Collin Gillespie Under 1.5 Steals",
-      "why": "fair 68.2% (devigged FanDuel, re-verified at board time) vs 67.4% implied at -207 \u2014 Gillespie is under 1.5 steals in 5 of his last 10, playing about 25 minutes off the bench for Phoenix; steals come in bunches and the market's own fair price says under."
+      "matchup": "NYK @ MIN",
+      "pick": "Jalen Brunson Over 2.5 Threes",
+      "why": "fair 49.3% (devigged FanDuel, re-verified at board time) vs 48.8% implied at +105 \u2014 Brunson is over 2.5 threes in 9 of his last 10, averaging 3.6 a game, and Minnesota is without Edwards and DiVincenzo on the perimeter."
     }
   ],
   "links": {
@@ -20,5 +26,5 @@
     "instagram": "https://www.instagram.com/thedfsedgeuni",
     "discord": "https://discord.gg/3gEZHwWh6"
   },
-  "generated_at": "2026-11-18"
+  "generated_at": "2026-11-19"
 }
